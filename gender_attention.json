@@ -1,0 +1,24 @@
+{
+  "model": {
+    "type": "ForwardLSTM",
+    "state_dict": "../../lm_data/models/gulordava/state_dict.pt"
+  },
+  "vocab": {
+    "path": "../../lm_data/models/gulordava/vocab.txt"
+  },
+  "corpus": {
+    "path": "../../lm_data/corpora/downstream/winobias"
+  },
+  "activations": {
+    "dtype": "float32"
+  },
+  "init_states": {
+    "corpus_path": "../../lm_data/corpora/init_sens/init_sen0.txt"
+  },
+  "decompose": {
+    "rel_interactions": ["rel-rel", "rel-b", "rel-irrel"],
+    "only_source_rel": true,
+    "decompose_o": true,
+    "fix_shapley": true
+  }
+}

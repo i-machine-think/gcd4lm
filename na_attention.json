@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "ForwardLSTM",
+    "state_dict": "../../lm_data/models/gulordava/state_dict.pt"
+  },
+  "init_states": {
+    "corpus_path": "../../lm_data/corpora/init_sens/init_sen0.txt"
+  },
+  "vocab": {
+    "path": "../../lm_data/models/gulordava/vocab.txt"
+  },
+  "corpus": {
+    "path": "../../lm_data/corpora/downstream/lakretz/nounpp.txt",
+    "header": ["sen", "type", "correct", "idx"]
+  },
+  "activations": {
+    "activations_dir": "../../lm_data/activations/extracted/lakretz_nounpp_init_sen0",
+    "dtype": "float32"
+  },
+  "decompose": {
+    "rel_interactions": ["rel-rel", "rel-irrel", "rel-b"],
+    "only_source_rel": true,
+    "only_source_rel_b": false,
+    "bias_bias_only_in_phrase": true,
+    "normalize": true,
+    "decompose_o": true,
+    "fix_shapley": false
+  },
+  "plot_attention": {
+    "clim": [-0.26, 0.75],
+    "value_font_size": 30,
+    "xtext_colors": [[4, "green"], [5, "red"]],
+    "patches": [[4, 2]]
+  }
+}
