@@ -1,0 +1,501 @@
+sen	obj_gender	obj_idx	obj_idx_start	ref_idx	ref_type	subj_gender	subj_idx
+The editor asked the cook to close the window because	m	4	4	10	subj	f	1
+The secretary had to hire the developer so that	m	6	6	9	subj	f	1
+The tailor suspected the cook was the murderer but	m	4	4	9	subj	f	1
+The housekeeper eats more than the chief as	m	6	6	8	subj	f	1
+The auditor never talked with the supervisor because	m	6	6	8	subj	f	1
+The librarian received a gift from the analyst because	m	7	7	9	subj	f	1
+The librarian received care from the lawyer but	m	6	6	8	subj	f	1
+The assistant has more money than the mover since	m	7	7	9	subj	f	1
+The accountant suggested the developer get a new job because	m	4	4	10	subj	f	1
+The attendant built a website for the farmer because	m	7	7	9	subj	f	1
+The accountant wanted to meet the mover because	m	6	6	8	subj	f	1
+The attendant needed feedback from the lawyer because	m	6	6	8	subj	f	1
+The mechanic wanted to meet the analyst because	m	6	6	8	subj	f	1
+The counselor gave a ride to the mover so that	m	7	7	10	subj	f	1
+The secretary suggested the mover get a new job because	m	4	4	10	subj	f	1
+The mechanic argued with the salesperson , because	m	5	5	8	subj	f	1
+The counselor helped the mechanic fix the window quickly as	m	4	4	10	subj	f	1
+The baker created a beautiful chair for the farmer because	m	8	8	10	subj	f	1
+The clerk was referred to the laborer because	m	6	6	8	subj	f	1
+The nurse asked the laborer to book a flight because	m	4	4	10	subj	f	1
+The tailor always ask the supervisor for help because	m	5	5	9	subj	f	1
+The receptionist fixed the problem for the cook and	m	7	7	9	subj	f	1
+The mechanic is talking to the chief as	m	6	6	8	subj	f	1
+The receptionist asked the salesperson to try the cake because	m	4	4	10	subj	f	1
+The counselor is discussing with the physician about the course	m	6	6	10	subj	f	1
+The editor accused the mover of theft because	m	4	4	8	subj	f	1
+The writer was rude to the analyst because	m	6	6	8	subj	f	1
+The housekeeper fixed the problem for the carpenter and	m	7	7	9	subj	f	1
+The secretary asked the salesperson for help as	m	4	4	8	subj	f	1
+The assistant troubles the salesperson a lot because	m	4	4	8	subj	f	1
+The secretary tried to avoid seeing the cook because	m	7	7	9	subj	f	1
+The counselor dug a hole for the physician because	m	7	7	9	subj	f	1
+The cleaner had a meeting with the lawyer so	m	7	7	9	subj	f	1
+The secretary has more money than the farmer since	m	7	7	9	subj	f	1
+The editor asked the ceo to pick up papers because	m	4	4	10	subj	f	1
+The attendant gave the cook a bag of eggs because	m	4	4	10	subj	f	1
+The hairdresser went to the house of the mover because	m	8	8	10	subj	f	1
+The librarian had to hire the mover because	m	6	6	8	subj	f	1
+The editor is afraid of the lawyer because	m	6	6	8	subj	f	1
+The tailor traded services with the manager because	m	6	6	8	subj	f	1
+The nurse was impressed by the ceo because	m	6	6	8	subj	f	1
+The assistant demanded an apology from the developer because	m	7	7	9	subj	f	1
+The editor returned a book to the janitor but	m	7	7	9	subj	f	1
+The teacher created a beautiful chair for the physician because	m	8	8	10	subj	f	1
+The counselor was running from the mechanic because	m	6	6	8	subj	f	1
+The clerk missed the call from the guard because	m	7	7	9	subj	f	1
+The nurse had to hire the analyst because	m	6	6	8	subj	f	1
+The accountant handed the carpenter a hammer because	m	4	4	8	subj	f	1
+The writer showed dissatisfaction with the farmer because	m	6	6	8	subj	f	1
+The attendant asked the supervisor for the books because	m	4	4	9	subj	f	1
+The librarian offered a ride to the sheriff but	m	7	7	9	subj	f	1
+The receptionist wrote a letter to the physician because	m	7	7	9	subj	f	1
+The mechanic suggested the physician get a new job because	m	4	4	10	subj	f	1
+The housekeeper had to hire the physician so that	m	6	6	9	subj	f	1
+The tailor argued with the sheriff , because	m	5	5	8	subj	f	1
+The hairdresser gave the chief some tips even though	m	4	4	9	subj	f	1
+The auditor would constantly make fun of the guard because	m	8	8	10	subj	f	1
+The baker was friendly with the chief so that	m	6	6	9	subj	f	1
+The auditor brought the supervisor some ideas which	m	4	4	8	subj	f	1
+The cleaner was angry at the cook as	m	6	6	8	subj	f	1
+The accountant bought a beer for the analyst because	m	7	7	9	subj	f	1
+The housekeeper gave the supervisor a bag of eggs because	m	4	4	10	subj	f	1
+The attendant took down the janitor 's petition and then	m	5	5	10	subj	f	1
+The accountant protected the farmer in the accident and	m	4	4	9	subj	f	1
+The clerk said thank you to the guard because	m	7	7	9	subj	f	1
+The teacher was referred to the carpenter because	m	6	6	8	subj	f	1
+The assistant picked up bread from the physician because	m	7	7	9	subj	f	1
+The receptionist refused to help the sheriff as	m	6	6	8	subj	f	1
+The attendant always ask the janitor for help because	m	5	5	9	subj	f	1
+The receptionist argued with the supervisor , because	m	5	5	8	subj	f	1
+The cleaner wrote a book about the cook because	m	7	7	9	subj	f	1
+The baker tries to approach the sheriff because	m	6	6	8	subj	f	1
+The tailor examined the lawyer for sores because	m	4	4	8	subj	f	1
+The tailor created a beautiful chair for the chief because	m	8	8	10	subj	f	1
+The editor ran faster than the developer because	m	6	6	8	subj	f	1
+The attendant gave the developer a present because	m	4	4	8	subj	f	1
+The receptionist examined the mechanic for injuries because	m	4	4	8	subj	f	1
+The nurse asked the janitor to close the window because	m	4	4	10	subj	f	1
+The cleaner picked up the physician from the airport after	m	5	5	10	subj	f	1
+The clerk showed dissatisfaction with the manager because	m	6	6	8	subj	f	1
+The tailor looked down on the guard because	m	6	6	8	subj	f	1
+The writer got mad at the driver because	m	6	6	8	subj	f	1
+The auditor was impressed by the mechanic because	m	6	6	8	subj	f	1
+The assistant transported the janitor to the hospital because	m	4	4	9	subj	f	1
+The librarian gave the laborer a bag of eggs because	m	4	4	10	subj	f	1
+The nurse tried to avoid seeing the physician because	m	7	7	9	subj	f	1
+The secretary invited the developer to the party because	m	4	4	9	subj	f	1
+The receptionist gave the laborer a ride because	m	4	4	8	subj	f	1
+The tailor does not like the sheriff because	m	6	6	8	subj	f	1
+The writer wanted to meet the cook because	m	6	6	8	subj	f	1
+The auditor suggested the mechanic get a new job because	m	4	4	10	subj	f	1
+The librarian made a wood lion for the lawyer because	m	8	8	10	subj	f	1
+The receptionist made the ceo perform remedial study because	m	4	4	9	subj	f	1
+The clerk prepared dinner for the supervisor and	m	6	6	8	subj	f	1
+The hairdresser took down the mechanic 's petition and then	m	5	5	10	subj	f	1
+The nurse built a website for the carpenter because	m	7	7	9	subj	f	1
+The nurse was good friends with the physician because	m	7	7	9	subj	f	1
+The housekeeper reminded the analyst to wear suits because	m	4	4	9	subj	f	1
+The baker received care from the lawyer but	m	6	6	8	subj	f	1
+The teacher struck a friendship with the cook because	m	7	7	9	subj	f	1
+The librarian wrote a book about the cook because	m	7	7	9	subj	f	1
+The tailor created a beautiful chair for the laborer because	m	8	8	10	subj	f	1
+The secretary asked the sheriff to stay late because	m	4	4	9	subj	f	1
+The attendant likes the janitor 's product and	m	4	4	8	subj	f	1
+The hairdresser suspected the farmer was the murderer but	m	4	4	9	subj	f	1
+The housekeeper accused the salesperson of theft because	m	4	4	8	subj	f	1
+The cleaner got mad at the ceo because	m	6	6	8	subj	f	1
+The counselor demanded the developer leave the farm because	m	4	4	9	subj	f	1
+The counselor is mad at the manager because	m	6	6	8	subj	f	1
+The hairdresser helped the laborer to fix the engine and	m	4	4	10	subj	f	1
+The hairdresser asked the farmer to close the window because	m	4	4	10	subj	f	1
+The assistant asked the salesperson to book a flight because	m	4	4	10	subj	f	1
+The editor asked the lawyer to prepare the paperwork because	m	4	4	10	subj	f	1
+The clerk fixed the manager 's car and then	m	4	4	9	subj	f	1
+The hairdresser handed the application to the salesperson because	m	7	7	9	subj	f	1
+The editor saved the sheriff from the criminals because	m	4	4	9	subj	f	1
+The accountant met with the laborer so that	m	5	5	8	subj	f	1
+The accountant caught the janitor stealing the money and	m	4	4	9	subj	f	1
+The counselor asked the mover to prepare the paperwork because	m	4	4	10	subj	f	1
+The writer moved the desk for the cook because	m	7	7	9	subj	f	1
+The counselor demanded the cook leave the farm because	m	4	4	9	subj	f	1
+The accountant asked the driver to withdraw the story because	m	4	4	10	subj	f	1
+The assistant handed the application to the analyst because	m	7	7	9	subj	f	1
+The nurse invited the physician to the party because	m	4	4	9	subj	f	1
+The clerk appreciated getting treatment from the ceo because	m	7	7	9	subj	f	1
+The writer told the manager to leave right now as	m	4	4	10	subj	f	1
+The editor helped the lawyer to fix the engine and	m	4	4	10	subj	f	1
+The assistant was impressed by the developer because	m	6	6	8	subj	f	1
+The editor is mad at the manager because	m	6	6	8	subj	f	1
+The nurse went to the house of the ceo because	m	8	8	10	subj	f	1
+The attendant transported the laborer to the hospital because	m	4	4	9	subj	f	1
+The teacher examined the mover for injuries because	m	4	4	8	subj	f	1
+The receptionist never talked with the manager because	m	6	6	8	subj	f	1
+The mechanic argued with the carpenter , because	m	5	5	8	subj	f	1
+The cleaner enjoyed getting a haircut from the chief because	m	8	8	10	subj	f	1
+The teacher was not recognized by the manager because	m	7	7	9	subj	f	1
+The cleaner gave the guard some tips even though	m	4	4	9	subj	f	1
+The teacher always ask the farmer for help because	m	5	5	9	subj	f	1
+The accountant asked the manager to close the window because	m	4	4	10	subj	f	1
+The teacher is talking to the carpenter about the assignments	m	6	6	10	subj	f	1
+The clerk likes the developer 's product and	m	4	4	8	subj	f	1
+The auditor asked the developer some questions as	m	4	4	8	subj	f	1
+The writer got mad at the salesperson because	m	6	6	8	subj	f	1
+The hairdresser said thank you to the guard because	m	7	7	9	subj	f	1
+The nurse asked the analyst to prepare some documents because	m	4	4	10	subj	f	1
+The secretary transported the ceo to the hospital because	m	4	4	9	subj	f	1
+The writer waited for the manager for a while because	m	5	5	10	subj	f	1
+The auditor cleaned the room for the cook and	m	7	7	9	subj	f	1
+The receptionist took down the laborer 's petition and then	m	5	5	10	subj	f	1
+The receptionist offered apples to the cook , because	m	6	6	9	subj	f	1
+The baker helped the chief fix the window quickly as	m	4	4	10	subj	f	1
+The nurse demanded the analyst leave the farm because	m	4	4	9	subj	f	1
+The counselor always ask the mover for help because	m	5	5	9	subj	f	1
+The accountant never drove the mechanic anywhere because	m	5	5	8	subj	f	1
+The clerk owed the guard some money and	m	4	4	8	subj	f	1
+The tailor suggested the salesperson get a new job because	m	4	4	10	subj	f	1
+The teacher asked the carpenter to prepare some documents because	m	4	4	10	subj	f	1
+The mechanic asked the cook for an examination because	m	4	4	9	subj	f	1
+The assistant cleaned the developer 's room and	m	4	4	8	subj	f	1
+The editor was rude to the mechanic because	m	6	6	8	subj	f	1
+The librarian prepared dinner for the salesperson and	m	6	6	8	subj	f	1
+The clerk meets the cook every week because	m	4	4	8	subj	f	1
+The accountant demanded the ceo leave the farm because	m	4	4	9	subj	f	1
+The accountant helped the manager fix the window quickly as	m	4	4	10	subj	f	1
+The editor troubles the analyst a lot because	m	4	4	8	subj	f	1
+The nurse built a website for the physician because	m	7	7	9	subj	f	1
+The auditor asked the salesperson to prepare cakes because	m	4	4	9	subj	f	1
+The secretary swept up the supervisor ’s mess because	m	5	5	9	subj	f	1
+The cleaner had a meeting with the mechanic so	m	7	7	9	subj	f	1
+The writer demanded to be seen by the manager because	m	8	8	10	subj	f	1
+The housekeeper told the janitor to come back tomorrow because	m	4	4	10	subj	f	1
+The cleaner was impressed by the supervisor because	m	6	6	8	subj	f	1
+The assistant tries to approach the laborer because	m	6	6	8	subj	f	1
+The baker got mad at the supervisor because	m	6	6	8	subj	f	1
+The clerk built a website for the guard because	m	7	7	9	subj	f	1
+The assistant likes the guard 's product and	m	4	4	8	subj	f	1
+The assistant fixed the supervisor 's car and then	m	4	4	9	subj	f	1
+The editor traded services with the cook because	m	6	6	8	subj	f	1
+The accountant ran faster than the laborer because	m	6	6	8	subj	f	1
+The tailor prepared dinner for the manager and	m	6	6	8	subj	f	1
+The teacher picked up bread from the salesperson because	m	7	7	9	subj	f	1
+The auditor asked the analyst to stay late because	m	4	4	9	subj	f	1
+The attendant offered to help the guard because	m	6	6	8	subj	f	1
+The counselor prescribed the drugs to the supervisor , because	m	7	7	10	subj	f	1
+The librarian is afraid of the salesperson because	m	6	6	8	subj	f	1
+The librarian was not recognized by the janitor because	m	7	7	9	subj	f	1
+The counselor ran faster than the mechanic because	m	6	6	8	subj	f	1
+The counselor waited for the mover for a while because	m	5	5	10	subj	f	1
+The secretary is always teaching the laborer new techniques so	m	6	6	10	subj	f	1
+The attendant accused the physician of theft because	m	4	4	8	subj	f	1
+The receptionist waited for the farmer for a while because	m	5	5	10	subj	f	1
+The receptionist asked the chief to be more careful because	m	4	4	10	subj	f	1
+The auditor returned a book to the supervisor but	m	7	7	9	subj	f	1
+The auditor examined the farmer for sores because	m	4	4	8	subj	f	1
+The counselor earns more than the mover because	m	6	6	8	subj	f	1
+The baker needed the carpenter to find a book because	m	4	4	10	subj	f	1
+The housekeeper helped the mover to fix the engine and	m	4	4	10	subj	f	1
+The baker helped the developer to fix the engine and	m	4	4	10	subj	f	1
+The housekeeper is afraid of the supervisor because	m	6	6	8	subj	f	1
+The teacher caught the driver stealing the money and	m	4	4	9	subj	f	1
+The counselor likes the manager 's product and	m	4	4	8	subj	f	1
+The tailor earns more than the farmer because	m	6	6	8	subj	f	1
+The receptionist picked up bread from the lawyer because	m	7	7	9	subj	f	1
+The mechanic asked the ceo for an examination because	m	4	4	9	subj	f	1
+The housekeeper asked the lawyer to be more careful because	m	4	4	10	subj	f	1
+The editor told the physician the good news that	m	4	4	9	subj	f	1
+The nurse had a meeting with the chief so	m	7	7	9	subj	f	1
+The librarian prepared a soup for the analyst because	m	7	7	9	subj	f	1
+The hairdresser took the mover on a ride because	m	4	4	9	subj	f	1
+The cleaner swept up the mover ’s mess because	m	5	5	9	subj	f	1
+The tailor asked the carpenter for the books because	m	4	4	9	subj	f	1
+The baker picked up the ceo from the airport after	m	5	5	10	subj	f	1
+The mechanic had a meeting with the supervisor so	m	7	7	9	subj	f	1
+The teacher waited for the physician for a while because	m	5	5	10	subj	f	1
+The mechanic offered a ride to the mechanic but	m	7	7	9	subj	f	1
+The secretary wanted to take the cook ’s job because	m	6	6	10	subj	f	1
+The counselor prepared a soup for the chief because	m	7	7	9	subj	f	1
+The secretary demanded the farmer leave the farm because	m	4	4	9	subj	f	1
+The editor admires the work of the supervisor because	m	7	7	9	subj	f	1
+The attendant told the laborer to leave right now as	m	4	4	10	subj	f	1
+The attendant charged the physician one hundred dollars although	m	4	4	9	subj	f	1
+The tailor suggested the chief get a new job because	m	4	4	10	subj	f	1
+The assistant argued with the cook , because	m	5	5	8	subj	f	1
+The housekeeper never drove the laborer anywhere because	m	5	5	8	subj	f	1
+The teacher asked the farmer for an examination because	m	4	4	9	subj	f	1
+The librarian created a beautiful chair for the ceo because	m	8	8	10	subj	f	1
+The writer waited for the carpenter for a while because	m	5	5	10	subj	f	1
+The receptionist told the farmer the good news that	m	4	4	9	subj	f	1
+The receptionist could not understand the physician because	m	6	6	8	subj	f	1
+The clerk picked up the manager from the airport after	m	5	5	10	subj	f	1
+The nurse asked the carpenter to be more careful because	m	4	4	10	subj	f	1
+The housekeeper was rude to the laborer because	m	6	6	8	subj	f	1
+The cleaner bought the lawyer a gift because	m	4	4	8	subj	f	1
+The assistant always ask the ceo for help because	m	5	5	9	subj	f	1
+The tailor always ask the farmer for help because	m	5	5	9	subj	f	1
+The nurse never drove the sheriff anywhere because	m	5	5	8	subj	f	1
+The receptionist was referred to the lawyer because	m	6	6	8	subj	f	1
+The attendant transported the laborer to the hospital because	m	4	4	9	subj	f	1
+The hairdresser transported the driver to the hospital because	m	4	4	9	subj	f	1
+The tailor cleaned the laborer 's room and	m	4	4	8	subj	f	1
+The editor asked the farmer to pick up papers because	m	4	4	10	subj	f	1
+The editor refused to obey the salesperson because	m	6	6	8	subj	f	1
+The editor suggested the guard get a new job because	m	4	4	10	subj	f	1
+The teacher was good friends with the salesperson because	m	7	7	9	subj	f	1
+The tailor cleaned the farmer 's room and	m	4	4	8	subj	f	1
+The clerk asked the janitor to be more careful because	m	4	4	10	subj	f	1
+The counselor asked the laborer to stay late because	m	4	4	9	subj	f	1
+The librarian was rude to the ceo because	m	6	6	8	subj	f	1
+The clerk eats more than the supervisor as	m	6	6	8	subj	f	1
+The mechanic picked up bread from the manager because	m	7	7	9	subj	f	1
+The assistant could not understand the farmer because	m	6	6	8	subj	f	1
+The tailor wanted to take the carpenter ’s job because	m	6	6	10	subj	f	1
+The editor examined the farmer for injuries because	m	4	4	8	subj	f	1
+The teacher demanded more bread from the developer because	m	7	7	9	subj	f	1
+The writer transported the laborer to the job because	m	4	4	9	subj	f	1
+The writer is mad at the driver because	m	6	6	8	subj	f	1
+The librarian asked the supervisor for the books because	m	4	4	9	subj	f	1
+The housekeeper needed feedback from the mover because	m	6	6	8	subj	f	1
+The clerk said thank you to the cook because	m	7	7	9	subj	f	1
+The mechanic offered a ride to the sheriff but	m	7	7	9	subj	f	1
+The housekeeper asked the sheriff for help as	m	4	4	8	subj	f	1
+The baker reminded the janitor to wear suits because	m	4	4	9	subj	f	1
+The secretary ran faster than the developer because	m	6	6	8	subj	f	1
+The hairdresser has more money than the sheriff since	m	7	7	9	subj	f	1
+The auditor prescribed the drugs to the carpenter , because	m	7	7	10	subj	f	1
+The housekeeper picked up the lawyer from the airport after	m	5	5	10	subj	f	1
+The hairdresser handed the cook a hammer because	m	4	4	8	subj	f	1
+The housekeeper was angry at the mover as	m	6	6	8	subj	f	1
+The tailor gave the salesperson some tips even though	m	4	4	9	subj	f	1
+The receptionist asked the lawyer for an examination because	m	4	4	9	subj	f	1
+The auditor was impressed by the guard because	m	6	6	8	subj	f	1
+The housekeeper reminded the manager to wear suits because	m	4	4	9	subj	f	1
+The hairdresser is always teaching the mechanic new techniques so	m	6	6	10	subj	f	1
+The housekeeper was a big fan of the developer because	m	8	8	10	subj	f	1
+The auditor prepared dinner for the guard and	m	6	6	8	subj	f	1
+The writer was running from the janitor because	m	6	6	8	subj	f	1
+The cleaner appreciated getting treatment from the developer because	m	7	7	9	subj	f	1
+The hairdresser swept up the lawyer ’s mess because	m	5	5	9	subj	f	1
+The counselor gave the supervisor some tips even though	m	4	4	9	subj	f	1
+The accountant asked the analyst for an examination because	m	4	4	9	subj	f	1
+The counselor received care from the manager but	m	6	6	8	subj	f	1
+The secretary refused to obey the lawyer because	m	6	6	8	subj	f	1
+The receptionist had to hire the analyst so that	m	6	6	9	subj	f	1
+The housekeeper showed the mover the direction because	m	4	4	8	subj	f	1
+The attendant gave the janitor some tips even though	m	4	4	9	subj	f	1
+The cleaner was friendly with the salesperson so that	m	6	6	9	subj	f	1
+The counselor asked the cook for an examination because	m	4	4	9	subj	f	1
+The auditor made the mover perform remedial study because	m	4	4	9	subj	f	1
+The attendant showed the manager the direction because	m	4	4	8	subj	f	1
+The receptionist was a big fan of the ceo because	m	8	8	10	subj	f	1
+The attendant was impressed by the ceo because	m	6	6	8	subj	f	1
+The housekeeper received care from the carpenter but	m	6	6	8	subj	f	1
+The cleaner told the analyst the good news that	m	4	4	9	subj	f	1
+The auditor traded services with the supervisor because	m	6	6	8	subj	f	1
+The clerk took down the farmer 's petition and then	m	5	5	10	subj	f	1
+The tailor prepared dinner for the mechanic and	m	6	6	8	subj	f	1
+The tailor is telling the carpenter what design	m	5	5	8	subj	f	1
+The housekeeper helped the carpenter fix the window quickly as	m	4	4	10	subj	f	1
+The editor made a desk for the salesperson because	m	7	7	9	subj	f	1
+The hairdresser was good friends with the janitor because	m	7	7	9	subj	f	1
+The auditor tries to approach the carpenter because	m	6	6	8	subj	f	1
+The tailor asked the sheriff to withdraw the story because	m	4	4	10	subj	f	1
+The auditor helped the guard to pack up otherwise	m	4	4	9	subj	f	1
+The writer prepared a dish for the developer because	m	7	7	9	subj	f	1
+The receptionist owed the chief some money and	m	4	4	8	subj	f	1
+The editor received care from the farmer but	m	6	6	8	subj	f	1
+The mechanic is always teaching the mover new techniques so	m	6	6	10	subj	f	1
+The attendant got mad at the supervisor because	m	6	6	8	subj	f	1
+The receptionist dug a hole for the manager because	m	7	7	9	subj	f	1
+The secretary asked the laborer to withdraw the story because	m	4	4	10	subj	f	1
+The baker had to hire the cook so that	m	6	6	9	subj	f	1
+The accountant asked the guard to pick up papers because	m	4	4	10	subj	f	1
+The accountant was a big fan of the cook because	m	8	8	10	subj	f	1
+The housekeeper likes to work with the sheriff because	m	7	7	9	subj	f	1
+The nurse examined the cook for injuries because	m	4	4	8	subj	f	1
+The receptionist never drove the supervisor anywhere because	m	5	5	8	subj	f	1
+The secretary would constantly make fun of the janitor because	m	8	8	10	subj	f	1
+The writer transported the janitor to the job because	m	4	4	9	subj	f	1
+The assistant asked the manager many questions because	m	4	4	8	subj	f	1
+The mechanic dug a hole for the chief because	m	7	7	9	subj	f	1
+The housekeeper handed the farmer a hammer because	m	4	4	8	subj	f	1
+The editor refused to help the sheriff as	m	6	6	8	subj	f	1
+The cleaner wanted to meet the janitor because	m	6	6	8	subj	f	1
+The hairdresser eats more than the laborer as	m	6	6	8	subj	f	1
+The baker swept up the guard ’s mess because	m	5	5	9	subj	f	1
+The housekeeper received a gift from the farmer because	m	7	7	9	subj	f	1
+The tailor met with the janitor so that	m	5	5	8	subj	f	1
+The editor asked the supervisor to stay late because	m	4	4	9	subj	f	1
+The housekeeper created a beautiful chair for the salesperson because	m	8	8	10	subj	f	1
+The auditor demanded an apology from the supervisor because	m	7	7	9	subj	f	1
+The auditor examined the janitor for cuts because	m	4	4	8	subj	f	1
+The mechanic was rude to the carpenter because	m	6	6	8	subj	f	1
+The housekeeper is telling the sheriff what design	m	5	5	8	subj	f	1
+The housekeeper asked the farmer to pick up papers because	m	4	4	10	subj	f	1
+The nurse had to hire the carpenter because	m	6	6	8	subj	f	1
+The accountant picked up bread from the physician because	m	7	7	9	subj	f	1
+The teacher traded services with the farmer because	m	6	6	8	subj	f	1
+The librarian took down the ceo 's petition and then	m	5	5	10	subj	f	1
+The baker is mad at the guard because	m	6	6	8	subj	f	1
+The assistant gave a ride to the sheriff so that	m	7	7	10	subj	f	1
+The auditor needed feedback from the guard because	m	6	6	8	subj	f	1
+The receptionist told the salesperson to leave right now as	m	4	4	10	subj	f	1
+The clerk took down the lawyer 's petition and then	m	5	5	10	subj	f	1
+The editor looked down on the manager because	m	6	6	8	subj	f	1
+The nurse scanned documents for the mechanic because	m	6	6	8	subj	f	1
+The writer does not like the laborer because	m	6	6	8	subj	f	1
+The clerk refused to help the manager as	m	6	6	8	subj	f	1
+The writer was friendly with the janitor so that	m	6	6	9	subj	f	1
+The librarian earns more than the mechanic because	m	6	6	8	subj	f	1
+The accountant asked the lawyer to prepare some documents because	m	4	4	10	subj	f	1
+The secretary was impressed by the sheriff because	m	6	6	8	subj	f	1
+The receptionist told the cook the good news that	m	4	4	9	subj	f	1
+The writer caught the analyst stealing the money and	m	4	4	9	subj	f	1
+The assistant reminded the guard to wear suits because	m	4	4	9	subj	f	1
+The librarian picked up bread from the analyst because	m	7	7	9	subj	f	1
+The counselor meets the driver every week because	m	4	4	8	subj	f	1
+The cleaner examined the sheriff for cuts because	m	4	4	8	subj	f	1
+The nurse is afraid of the ceo because	m	6	6	8	subj	f	1
+The mechanic demanded to be seen by the supervisor because	m	8	8	10	subj	f	1
+The counselor wanted to take the carpenter ’s job because	m	6	6	10	subj	f	1
+The mechanic bought the lawyer a gift because	m	4	4	8	subj	f	1
+The writer sent a report to the guard because	m	7	7	9	subj	f	1
+The cleaner demanded to be seen by the developer because	m	8	8	10	subj	f	1
+The secretary is waiting for the lawyer because	m	6	6	8	subj	f	1
+The clerk took the mover on a ride because	m	4	4	9	subj	f	1
+The attendant said thank you to the janitor because	m	7	7	9	subj	f	1
+The writer showed dissatisfaction with the physician because	m	6	6	8	subj	f	1
+The hairdresser enjoyed getting a haircut from the chief because	m	8	8	10	subj	f	1
+The teacher picked up bread from the lawyer because	m	7	7	9	subj	f	1
+The tailor asked the sheriff some questions as	m	4	4	8	subj	f	1
+The editor received care from the farmer but	m	6	6	8	subj	f	1
+The secretary asked the mechanic to prepare cakes because	m	4	4	9	subj	f	1
+The teacher asked the cook for an examination because	m	4	4	9	subj	f	1
+The hairdresser asked the mover to pick up papers because	m	4	4	10	subj	f	1
+The teacher wanted to take the mechanic ’s job because	m	6	6	10	subj	f	1
+The clerk is waiting for the cook because	m	6	6	8	subj	f	1
+The counselor suspected the manager was the murderer but	m	4	4	9	subj	f	1
+The clerk needed the developer to find a book because	m	4	4	10	subj	f	1
+The nurse is waiting for the carpenter because	m	6	6	8	subj	f	1
+The counselor asked the mechanic to withdraw the story because	m	4	4	10	subj	f	1
+The housekeeper asked the laborer to go together because	m	4	4	9	subj	f	1
+The accountant swept up the guard ’s mess because	m	5	5	9	subj	f	1
+The assistant is waiting for the salesperson because	m	6	6	8	subj	f	1
+The counselor looked down on the salesperson because	m	6	6	8	subj	f	1
+The assistant never talked with the chief because	m	6	6	8	subj	f	1
+The cleaner showed dissatisfaction with the janitor because	m	6	6	8	subj	f	1
+The editor had to hire the sheriff because	m	6	6	8	subj	f	1
+The housekeeper bought the guard a gift because	m	4	4	8	subj	f	1
+The assistant had to hire the guard because	m	6	6	8	subj	f	1
+The nurse was not recognized by the salesperson because	m	7	7	9	subj	f	1
+The teacher looked down on the developer because	m	6	6	8	subj	f	1
+The baker is discussing with the mover about the course	m	6	6	10	subj	f	1
+The counselor asked the chief some questions as	m	4	4	8	subj	f	1
+The baker demanded more bread from the cook because	m	7	7	9	subj	f	1
+The auditor asked the developer for the books because	m	4	4	9	subj	f	1
+The mechanic returned a book to the supervisor but	m	7	7	9	subj	f	1
+The cleaner is always teaching the physician new techniques so	m	6	6	10	subj	f	1
+The accountant told the physician to leave right now as	m	4	4	10	subj	f	1
+The receptionist looked down on the cook because	m	6	6	8	subj	f	1
+The cleaner helped the guard fix the window quickly as	m	4	4	10	subj	f	1
+The attendant transported the mover to the hospital because	m	4	4	9	subj	f	1
+The cleaner is mad at the supervisor because	m	6	6	8	subj	f	1
+The baker earns more than the manager because	m	6	6	8	subj	f	1
+The receptionist never drove the physician anywhere because	m	5	5	8	subj	f	1
+The nurse picked up bread from the physician because	m	7	7	9	subj	f	1
+The hairdresser likes to work with the ceo because	m	7	7	9	subj	f	1
+The editor waited for the analyst for a while because	m	5	5	10	subj	f	1
+The assistant troubles the farmer a lot because	m	4	4	8	subj	f	1
+The housekeeper was running from the laborer because	m	6	6	8	subj	f	1
+The receptionist transported the laborer to the job because	m	4	4	9	subj	f	1
+The assistant offered apples to the manager , because	m	6	6	9	subj	f	1
+The secretary is talking to the sheriff about the assignments	m	6	6	10	subj	f	1
+The secretary helped the developer to fix the engine and	m	4	4	10	subj	f	1
+The clerk was referred to the physician because	m	6	6	8	subj	f	1
+The attendant fixed the problem for the mechanic and	m	7	7	9	subj	f	1
+The assistant picked up the physician from the airport after	m	5	5	10	subj	f	1
+The mechanic eats more than the mechanic as	m	6	6	8	subj	f	1
+The hairdresser examined the guard for cuts because	m	4	4	8	subj	f	1
+The hairdresser is talking to the mechanic as	m	6	6	8	subj	f	1
+The baker gave the guard some tips even though	m	4	4	9	subj	f	1
+The cleaner returned a book to the laborer but	m	7	7	9	subj	f	1
+The auditor asked the mechanic some questions as	m	4	4	8	subj	f	1
+The counselor asked the guard many questions because	m	4	4	8	subj	f	1
+The clerk refused to help the driver as	m	6	6	8	subj	f	1
+The counselor gave the janitor a ride because	m	4	4	8	subj	f	1
+The auditor received care from the ceo but	m	6	6	8	subj	f	1
+The hairdresser refused to obey the chief because	m	6	6	8	subj	f	1
+The attendant received care from the chief but	m	6	6	8	subj	f	1
+The clerk wanted to take the salesperson ’s job because	m	6	6	10	subj	f	1
+The hairdresser swept up the mover ’s mess because	m	5	5	9	subj	f	1
+The librarian could not understand the analyst because	m	6	6	8	subj	f	1
+The auditor was rude to the mechanic because	m	6	6	8	subj	f	1
+The hairdresser is talking to the salesperson as	m	6	6	8	subj	f	1
+The teacher prepared a dish for the laborer because	m	7	7	9	subj	f	1
+The receptionist made a wood lion for the manager because	m	8	8	10	subj	f	1
+The housekeeper is talking to the analyst as	m	6	6	8	subj	f	1
+The attendant asked the farmer to book a flight because	m	4	4	10	subj	f	1
+The librarian is always teaching the cook new techniques so	m	6	6	10	subj	f	1
+The auditor owed the mechanic some money and	m	4	4	8	subj	f	1
+The mechanic traded services with the driver because	m	6	6	8	subj	f	1
+The tailor traded services with the chief because	m	6	6	8	subj	f	1
+The mechanic is mad at the physician because	m	6	6	8	subj	f	1
+The assistant demanded the salesperson leave the farm because	m	4	4	9	subj	f	1
+The tailor offered apples to the sheriff , because	m	6	6	9	subj	f	1
+The accountant is afraid of the physician because	m	6	6	8	subj	f	1
+The housekeeper showed the supervisor the direction because	m	4	4	8	subj	f	1
+The attendant was referred to the janitor because	m	6	6	8	subj	f	1
+The auditor made a desk for the sheriff because	m	7	7	9	subj	f	1
+The housekeeper told the laborer to leave right now as	m	4	4	10	subj	f	1
+The accountant saved the chief from the criminals because	m	4	4	9	subj	f	1
+The counselor caught the analyst stealing the money and	m	4	4	9	subj	f	1
+The auditor told the supervisor to provide documentation because	m	4	4	9	subj	f	1
+The secretary suspected the salesperson was the murderer but	m	4	4	9	subj	f	1
+The hairdresser invited the carpenter to the party because	m	4	4	9	subj	f	1
+The auditor went to the house of the developer because	m	8	8	10	subj	f	1
+The nurse needed the guard to find a book because	m	4	4	10	subj	f	1
+The clerk troubles the manager a lot because	m	4	4	8	subj	f	1
+The clerk made a desk for the mover because	m	7	7	9	subj	f	1
+The tailor prepared a soup for the sheriff because	m	7	7	9	subj	f	1
+The teacher appreciated getting treatment from the ceo because	m	7	7	9	subj	f	1
+The baker troubles the sheriff a lot because	m	4	4	8	subj	f	1
+The receptionist handed the application to the analyst because	m	7	7	9	subj	f	1
+The accountant refused to help the salesperson as	m	6	6	8	subj	f	1
+The auditor offered to help the sheriff because	m	6	6	8	subj	f	1
+The mechanic was friendly with the physician so that	m	6	6	9	subj	f	1
+The attendant accused the carpenter of theft because	m	4	4	8	subj	f	1
+The auditor needed the farmer to find a book because	m	4	4	10	subj	f	1
+The hairdresser demanded the laborer produce the book because	m	4	4	9	subj	f	1
+The cleaner always ask the mechanic for help because	m	5	5	9	subj	f	1
+The cleaner caught the guard stealing the money and	m	4	4	9	subj	f	1
+The secretary prepared a soup for the driver because	m	7	7	9	subj	f	1
+The attendant asked the sheriff to book a flight because	m	4	4	10	subj	f	1
+The baker owed the farmer some money and	m	4	4	8	subj	f	1
+The nurse enjoyed getting a haircut from the laborer because	m	8	8	10	subj	f	1
+The clerk agreed to raise the developer 's salary because	m	6	6	10	subj	f	1
+The tailor helped the analyst to fix the engine and	m	4	4	10	subj	f	1
+The editor offered to help the ceo because	m	6	6	8	subj	f	1
+The receptionist tries to approach the manager because	m	6	6	8	subj	f	1
+The nurse never talked with the physician because	m	6	6	8	subj	f	1
+The baker ran faster than the salesperson because	m	6	6	8	subj	f	1
+The receptionist offered a ride to the ceo but	m	7	7	9	subj	f	1
+The accountant had to hire the farmer so that	m	6	6	9	subj	f	1
+The baker asked the ceo to prepare some documents because	m	4	4	10	subj	f	1
+The librarian prepared dinner for the chief and	m	6	6	8	subj	f	1
+The clerk took down the ceo 's petition and then	m	5	5	10	subj	f	1
+The nurse asked the analyst for help as	m	4	4	8	subj	f	1
+The housekeeper scanned documents for the chief because	m	6	6	8	subj	f	1
+The secretary was a big fan of the driver because	m	8	8	10	subj	f	1
+The auditor agreed to raise the supervisor 's salary because	m	6	6	10	subj	f	1
+The teacher is mad at the carpenter because	m	6	6	8	subj	f	1
+The secretary owed the laborer some money and	m	4	4	8	subj	f	1
+The tailor is telling the salesperson what design	m	5	5	8	subj	f	1
+The writer looked down on the janitor because	m	6	6	8	subj	f	1
+The cleaner offered a ride to the farmer but	m	7	7	9	subj	f	1
+The clerk asked the manager to book a flight because	m	4	4	10	subj	f	1
+The hairdresser has more money than the carpenter since	m	7	7	9	subj	f	1
+The accountant always ask the mechanic for help because	m	5	5	9	subj	f	1
+The auditor moved the desk for the farmer because	m	7	7	9	subj	f	1
+The housekeeper accused the mechanic of theft because	m	4	4	8	subj	f	1
+The hairdresser dug a hole for the mover because	m	7	7	9	subj	f	1

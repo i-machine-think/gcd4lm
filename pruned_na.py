@@ -1,3 +1,5 @@
+import shutil
+
 from diagnnose.config.arg_parser import create_arg_parser
 from diagnnose.config.setup import create_config_dict
 from diagnnose.downstream.suite import DownstreamSuite
@@ -50,10 +52,11 @@ if __name__ == "__main__":
             "rel_interactions": ["rel-rel", "rel-b", "b-b", "rel-irrel"],
             "input_never_rel": True,
             "only_source_rel": True,
-            # "init_states_rel": True,
             "use_extracted_activations": False,
         }
     )
     suite.run(model)
     print("Without dec. bias:")
     suite.run(model, add_dec_bias=False)
+
+    shutil.rmtree("lakretz_activations")

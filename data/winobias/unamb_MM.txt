@@ -1,0 +1,501 @@
+sen	obj_gender	obj_idx	obj_idx_start	ref_idx	ref_type	subj_gender	subj_idx
+The man built a website for the monk because	m	7	7	9	subj	m	1
+The grandfather told the uncle the good news that	m	4	4	9	subj	m	1
+The grandfather made the grandson perform remedial study because	m	4	4	9	subj	m	1
+The lord was impressed by the brother because	m	6	6	8	subj	m	1
+The lord charged the grandfather one hundred dollars although	m	4	4	9	subj	m	1
+The monk needed feedback from the father because	m	6	6	8	subj	m	1
+The husband was unable to communicate with the uncle because	m	8	8	10	subj	m	1
+The brother returned a book to the uncle but	m	7	7	9	subj	m	1
+The man likes to work with the son because	m	7	7	9	subj	m	1
+The man picked up bread from the grandson because	m	7	7	9	subj	m	1
+The man tries to approach the boy because	m	6	6	8	subj	m	1
+The grandfather never talked with the son because	m	6	6	8	subj	m	1
+The monk built a website for the husband because	m	7	7	9	subj	m	1
+The son was not recognized by the grandfather because	m	7	7	9	subj	m	1
+The boy handed the application to the monk because	m	7	7	9	subj	m	1
+The lord was impressed by the uncle because	m	6	6	8	subj	m	1
+The brother asked the grandson to prepare some documents because	m	4	4	10	subj	m	1
+The groom asked the father to be more careful because	m	4	4	10	subj	m	1
+The groom built a website for the grandfather because	m	7	7	9	subj	m	1
+The father asked the husband many questions because	m	4	4	8	subj	m	1
+The father missed the call from the husband because	m	7	7	9	subj	m	1
+The husband had to hire the monk because	m	6	6	8	subj	m	1
+The groom likes the lord 's product and	m	4	4	8	subj	m	1
+The grandson is waiting for the son because	m	6	6	8	subj	m	1
+The groom offered apples to the brother , because	m	6	6	9	subj	m	1
+The man helped the man to fix the engine and	m	4	4	10	subj	m	1
+The grandson gave the uncle a ride because	m	4	4	8	subj	m	1
+The husband enjoyed getting a haircut from the groom because	m	8	8	10	subj	m	1
+The brother asked the man to pick up papers because	m	4	4	10	subj	m	1
+The husband had a meeting with the man so	m	7	7	9	subj	m	1
+The brother picked up bread from the husband because	m	7	7	9	subj	m	1
+The boy gave the brother a bag of eggs because	m	4	4	10	subj	m	1
+The uncle suggested the monk get a new job because	m	4	4	10	subj	m	1
+The groom brought the grandson some ideas which	m	4	4	8	subj	m	1
+The groom got mad at the man because	m	6	6	8	subj	m	1
+The lord made a desk for the monk because	m	7	7	9	subj	m	1
+The grandson is talking to the brother about the thief	m	6	6	10	subj	m	1
+The husband enjoyed getting a haircut from the uncle because	m	8	8	10	subj	m	1
+The father was angry at the father as	m	6	6	8	subj	m	1
+The son suspected the groom was the murderer but	m	4	4	9	subj	m	1
+The groom asked the grandson many questions because	m	4	4	8	subj	m	1
+The groom meets the grandfather every week because	m	4	4	8	subj	m	1
+The brother needed the father to find a book because	m	4	4	10	subj	m	1
+The father enjoyed getting a haircut from the grandfather because	m	8	8	10	subj	m	1
+The grandfather went to the house of the father because	m	8	8	10	subj	m	1
+The son made the father perform remedial study because	m	4	4	9	subj	m	1
+The husband asked the grandfather to pick up papers because	m	4	4	10	subj	m	1
+The lord went to the house of the grandson because	m	8	8	10	subj	m	1
+The uncle tried to avoid seeing the father because	m	7	7	9	subj	m	1
+The father was impressed by the boy because	m	6	6	8	subj	m	1
+The lord charged the son one hundred dollars although	m	4	4	9	subj	m	1
+The boy has more money than the boy since	m	7	7	9	subj	m	1
+The son is telling the groom what design	m	5	5	8	subj	m	1
+The groom cleaned the son 's room and	m	4	4	8	subj	m	1
+The lord demanded more bread from the father because	m	7	7	9	subj	m	1
+The uncle meets the boy every week because	m	4	4	8	subj	m	1
+The brother cleaned the room for the grandfather and	m	7	7	9	subj	m	1
+The boy ran faster than the son because	m	6	6	8	subj	m	1
+The grandfather was impressed by the lord because	m	6	6	8	subj	m	1
+The boy demanded an apology from the boy because	m	7	7	9	subj	m	1
+The man was unable to communicate with the father because	m	8	8	10	subj	m	1
+The boy prepared dinner for the groom and	m	6	6	8	subj	m	1
+The man was impressed by the monk because	m	6	6	8	subj	m	1
+The groom showed dissatisfaction with the boy because	m	6	6	8	subj	m	1
+The husband needed feedback from the boy because	m	6	6	8	subj	m	1
+The groom fixed the monk 's car and then	m	4	4	9	subj	m	1
+The lord agreed to raise the grandson 's salary because	m	6	6	10	subj	m	1
+The lord is telling the father what design	m	5	5	8	subj	m	1
+The grandfather accused the father of theft because	m	4	4	8	subj	m	1
+The grandson told the uncle to leave right now as	m	4	4	10	subj	m	1
+The husband always ask the monk for help because	m	5	5	9	subj	m	1
+The grandson wanted to take the brother ’s job because	m	6	6	10	subj	m	1
+The lord needed feedback from the boy because	m	6	6	8	subj	m	1
+The son is talking to the boy about the thief	m	6	6	10	subj	m	1
+The man meets the grandson every week because	m	4	4	8	subj	m	1
+The grandfather is afraid of the monk because	m	6	6	8	subj	m	1
+The groom is always teaching the father new techniques so	m	6	6	10	subj	m	1
+The father was referred to the groom because	m	6	6	8	subj	m	1
+The man returned a book to the boy but	m	7	7	9	subj	m	1
+The father gave the monk a present because	m	4	4	8	subj	m	1
+The grandfather is waiting for the brother because	m	6	6	8	subj	m	1
+The man traded services with the husband because	m	6	6	8	subj	m	1
+The husband refused to obey the son because	m	6	6	8	subj	m	1
+The man accused the lord of theft because	m	4	4	8	subj	m	1
+The man asked the brother to prepare cakes because	m	4	4	9	subj	m	1
+The father handed the son a hammer because	m	4	4	8	subj	m	1
+The groom provided the son with new tools but	m	4	4	9	subj	m	1
+The grandfather made a wood lion for the man because	m	8	8	10	subj	m	1
+The grandson could not understand the monk because	m	6	6	8	subj	m	1
+The uncle cleaned the grandfather 's room and	m	4	4	8	subj	m	1
+The grandfather suggested the man get a new job because	m	4	4	10	subj	m	1
+The monk needed feedback from the father because	m	6	6	8	subj	m	1
+The boy needed feedback from the grandson because	m	6	6	8	subj	m	1
+The uncle received a gift from the boy because	m	7	7	9	subj	m	1
+The groom fixed the groom 's car and then	m	4	4	9	subj	m	1
+The brother examined the groom for eye problems because	m	4	4	9	subj	m	1
+The father wanted to take the grandfather ’s job because	m	6	6	10	subj	m	1
+The man was referred to the son because	m	6	6	8	subj	m	1
+The husband was rude to the brother because	m	6	6	8	subj	m	1
+The lord helped the grandson to fix the engine and	m	4	4	10	subj	m	1
+The grandfather always ask the lord for help because	m	5	5	9	subj	m	1
+The boy handed the monk a hammer because	m	4	4	8	subj	m	1
+The grandfather examined the monk for eye problems because	m	4	4	9	subj	m	1
+The man protected the monk in the accident and	m	4	4	9	subj	m	1
+The uncle showed the grandson the direction because	m	4	4	8	subj	m	1
+The father was angry at the uncle as	m	6	6	8	subj	m	1
+The monk bought a beer for the boy because	m	7	7	9	subj	m	1
+The father prescribed the drugs to the father , because	m	7	7	10	subj	m	1
+The grandfather picked up the father from the airport after	m	5	5	10	subj	m	1
+The husband agreed to raise the uncle 's salary because	m	6	6	10	subj	m	1
+The brother built a website for the son because	m	7	7	9	subj	m	1
+The brother was friendly with the grandson so that	m	6	6	9	subj	m	1
+The monk prescribed the drugs to the boy , because	m	7	7	10	subj	m	1
+The son is telling the husband what design	m	5	5	8	subj	m	1
+The grandfather refused to obey the son because	m	6	6	8	subj	m	1
+The groom demanded more bread from the groom because	m	7	7	9	subj	m	1
+The grandfather had to hire the grandfather so that	m	6	6	9	subj	m	1
+The uncle has more money than the lord since	m	7	7	9	subj	m	1
+The boy tried to avoid seeing the son because	m	7	7	9	subj	m	1
+The son refused to obey the son because	m	6	6	8	subj	m	1
+The husband gave the boy a tip because	m	4	4	8	subj	m	1
+The son eats more than the monk as	m	6	6	8	subj	m	1
+The grandfather left the documents with the groom but	m	7	7	9	subj	m	1
+The man was good friends with the lord because	m	7	7	9	subj	m	1
+The groom had to hire the groom because	m	6	6	8	subj	m	1
+The grandson is talking to the boy as	m	6	6	8	subj	m	1
+The monk was impressed by the boy because	m	6	6	8	subj	m	1
+The father does not like the brother because	m	6	6	8	subj	m	1
+The monk could not understand the father because	m	6	6	8	subj	m	1
+The son was rude to the son because	m	6	6	8	subj	m	1
+The lord picked up bread from the husband because	m	7	7	9	subj	m	1
+The brother returned a book to the monk but	m	7	7	9	subj	m	1
+The groom asked the groom many questions because	m	4	4	8	subj	m	1
+The grandfather created a beautiful chair for the man because	m	8	8	10	subj	m	1
+The uncle meets the uncle every week because	m	4	4	8	subj	m	1
+The monk got mad at the boy because	m	6	6	8	subj	m	1
+The husband examined the grandfather for injuries because	m	4	4	8	subj	m	1
+The groom asked the grandfather to prepare some documents because	m	4	4	10	subj	m	1
+The lord prepared a dish for the son because	m	7	7	9	subj	m	1
+The brother ran faster than the brother because	m	6	6	8	subj	m	1
+The monk meets the lord every week because	m	4	4	8	subj	m	1
+The grandson is waiting for the boy because	m	6	6	8	subj	m	1
+The man helped the grandson fix the window quickly as	m	4	4	10	subj	m	1
+The son told the father to provide documentation because	m	4	4	9	subj	m	1
+The groom is talking to the grandson as	m	6	6	8	subj	m	1
+The brother meets the son every week because	m	4	4	8	subj	m	1
+The father refused to help the monk as	m	6	6	8	subj	m	1
+The man made the man perform remedial study because	m	4	4	9	subj	m	1
+The husband had a meeting with the brother so	m	7	7	9	subj	m	1
+The groom is talking to the husband about the assignments	m	6	6	10	subj	m	1
+The lord asked the father to withdraw the story because	m	4	4	10	subj	m	1
+The grandson gave the son a tip because	m	4	4	8	subj	m	1
+The son took down the monk 's petition and then	m	5	5	10	subj	m	1
+The grandson earns more than the son because	m	6	6	8	subj	m	1
+The grandfather demanded to be seen by the man because	m	8	8	10	subj	m	1
+The man is talking to the groom about the thief	m	6	6	10	subj	m	1
+The grandson received a gift from the boy because	m	7	7	9	subj	m	1
+The monk was rude to the father because	m	6	6	8	subj	m	1
+The husband helped the man to fix the engine and	m	4	4	10	subj	m	1
+The brother is afraid of the father because	m	6	6	8	subj	m	1
+The husband appreciated getting treatment from the lord because	m	7	7	9	subj	m	1
+The father missed the call from the uncle because	m	7	7	9	subj	m	1
+The husband examined the groom for sores because	m	4	4	8	subj	m	1
+The uncle had a meeting with the grandfather so	m	7	7	9	subj	m	1
+The lord offered to help the groom because	m	6	6	8	subj	m	1
+The man likes the husband 's product and	m	4	4	8	subj	m	1
+The husband needed feedback from the grandfather because	m	6	6	8	subj	m	1
+The brother is talking to the husband about the thief	m	6	6	10	subj	m	1
+The monk is afraid of the brother because	m	6	6	8	subj	m	1
+The boy wrote a letter to the son because	m	7	7	9	subj	m	1
+The father always ask the son for help because	m	5	5	9	subj	m	1
+The man asked the grandson to book a flight because	m	4	4	10	subj	m	1
+The son received care from the lord but	m	6	6	8	subj	m	1
+The father asked the grandfather to go together because	m	4	4	9	subj	m	1
+The uncle missed the call from the father because	m	7	7	9	subj	m	1
+The groom took down the groom 's petition and then	m	5	5	10	subj	m	1
+The uncle handed the uncle a hammer because	m	4	4	8	subj	m	1
+The boy demanded the groom produce the book because	m	4	4	9	subj	m	1
+The groom is waiting for the husband because	m	6	6	8	subj	m	1
+The boy showed the monk the direction because	m	4	4	8	subj	m	1
+The monk handed the application to the grandfather because	m	7	7	9	subj	m	1
+The grandfather invited the uncle to the party because	m	4	4	9	subj	m	1
+The boy provided the lord with new tools but	m	4	4	9	subj	m	1
+The boy missed the call from the grandfather because	m	7	7	9	subj	m	1
+The father caught the husband stealing the money and	m	4	4	9	subj	m	1
+The grandson refused to help the lord as	m	6	6	8	subj	m	1
+The father is talking to the monk about the thief	m	6	6	10	subj	m	1
+The man handed the man a hammer because	m	4	4	8	subj	m	1
+The uncle demanded the man produce the book because	m	4	4	9	subj	m	1
+The husband protected the man in the accident and	m	4	4	9	subj	m	1
+The lord tries to approach the grandfather because	m	6	6	8	subj	m	1
+The lord asked the grandson to go together because	m	4	4	9	subj	m	1
+The father ran faster than the grandson because	m	6	6	8	subj	m	1
+The monk was unable to communicate with the lord because	m	8	8	10	subj	m	1
+The grandfather wanted to take the father ’s job because	m	6	6	10	subj	m	1
+The boy is mad at the grandson because	m	6	6	8	subj	m	1
+The boy agreed to raise the grandfather 's salary because	m	6	6	10	subj	m	1
+The son asked the uncle to close the window because	m	4	4	10	subj	m	1
+The boy demanded the grandson produce the book because	m	4	4	9	subj	m	1
+The son received a gift from the groom because	m	7	7	9	subj	m	1
+The grandson asked the brother to go together because	m	4	4	9	subj	m	1
+The grandfather demanded an apology from the uncle because	m	7	7	9	subj	m	1
+The man eats more than the brother as	m	6	6	8	subj	m	1
+The son gave the grandson a bag of eggs because	m	4	4	10	subj	m	1
+The father troubles the father a lot because	m	4	4	8	subj	m	1
+The brother is afraid of the father because	m	6	6	8	subj	m	1
+The grandson is afraid of the grandson because	m	6	6	8	subj	m	1
+The grandson never drove the lord anywhere because	m	5	5	8	subj	m	1
+The husband asked the son to go together because	m	4	4	9	subj	m	1
+The grandfather moved the desk for the grandson because	m	7	7	9	subj	m	1
+The husband enjoyed getting a haircut from the grandfather because	m	8	8	10	subj	m	1
+The father was angry at the man as	m	6	6	8	subj	m	1
+The grandson prepared dinner for the father and	m	6	6	8	subj	m	1
+The son wrote a book about the husband because	m	7	7	9	subj	m	1
+The boy missed the call from the father because	m	7	7	9	subj	m	1
+The monk prepared dinner for the boy and	m	6	6	8	subj	m	1
+The groom fixed the problem for the grandfather and	m	7	7	9	subj	m	1
+The boy wrote a letter to the grandfather because	m	7	7	9	subj	m	1
+The grandfather provided the son with new tools but	m	4	4	9	subj	m	1
+The grandfather asked the grandfather for help as	m	4	4	8	subj	m	1
+The husband suggested the uncle get a new job because	m	4	4	10	subj	m	1
+The son demanded the husband produce the book because	m	4	4	9	subj	m	1
+The groom examined the husband for sores because	m	4	4	8	subj	m	1
+The brother demanded more bread from the grandfather because	m	7	7	9	subj	m	1
+The father tried to avoid seeing the son because	m	7	7	9	subj	m	1
+The man struck a friendship with the grandson because	m	7	7	9	subj	m	1
+The grandfather asked the husband to prepare the paperwork because	m	4	4	10	subj	m	1
+The groom asked the monk to book a flight because	m	4	4	10	subj	m	1
+The man would constantly make fun of the man because	m	8	8	10	subj	m	1
+The uncle was unable to communicate with the uncle because	m	8	8	10	subj	m	1
+The lord told the lord to leave right now as	m	4	4	10	subj	m	1
+The son helped the brother to pack up otherwise	m	4	4	9	subj	m	1
+The man caught the grandson stealing the money and	m	4	4	9	subj	m	1
+The boy scanned documents for the son because	m	6	6	8	subj	m	1
+The monk made a wood lion for the boy because	m	8	8	10	subj	m	1
+The husband asked the husband for help as	m	4	4	8	subj	m	1
+The grandfather refused to help the son as	m	6	6	8	subj	m	1
+The brother traded services with the grandson because	m	6	6	8	subj	m	1
+The husband accused the monk of theft because	m	4	4	8	subj	m	1
+The man missed the call from the grandson because	m	7	7	9	subj	m	1
+The grandfather refused to help the husband as	m	6	6	8	subj	m	1
+The uncle earns more than the son because	m	6	6	8	subj	m	1
+The groom asked the man to close the window because	m	4	4	10	subj	m	1
+The brother was referred to the father because	m	6	6	8	subj	m	1
+The grandson handed the application to the man because	m	7	7	9	subj	m	1
+The father charged the brother one hundred dollars although	m	4	4	9	subj	m	1
+The monk transported the husband to the hospital because	m	4	4	9	subj	m	1
+The boy saved the lord from the criminals because	m	4	4	9	subj	m	1
+The grandson needed the brother to find a book because	m	4	4	10	subj	m	1
+The husband owed the boy some money and	m	4	4	8	subj	m	1
+The lord was unable to communicate with the husband because	m	8	8	10	subj	m	1
+The grandfather demanded to be seen by the uncle because	m	8	8	10	subj	m	1
+The groom gave the son a bag of eggs because	m	4	4	10	subj	m	1
+The husband looked down on the husband because	m	6	6	8	subj	m	1
+The father made a wood lion for the husband because	m	8	8	10	subj	m	1
+The brother protected the son in the accident and	m	4	4	9	subj	m	1
+The grandfather is talking to the son as	m	6	6	8	subj	m	1
+The grandfather had to hire the boy because	m	6	6	8	subj	m	1
+The groom had to hire the man so that	m	6	6	9	subj	m	1
+The father had to hire the grandson so that	m	6	6	9	subj	m	1
+The brother is telling the grandson what design	m	5	5	8	subj	m	1
+The son offered a ride to the lord but	m	7	7	9	subj	m	1
+The grandson invited the father to the party because	m	4	4	9	subj	m	1
+The grandson built a website for the monk because	m	7	7	9	subj	m	1
+The monk accused the husband of theft because	m	4	4	8	subj	m	1
+The man eats more than the monk as	m	6	6	8	subj	m	1
+The man asked the groom for the books because	m	4	4	9	subj	m	1
+The groom met with the monk so that	m	5	5	8	subj	m	1
+The brother demanded the father produce the book because	m	4	4	9	subj	m	1
+The brother admires the work of the man because	m	7	7	9	subj	m	1
+The boy is waiting for the man because	m	6	6	8	subj	m	1
+The lord had a meeting with the grandfather so	m	7	7	9	subj	m	1
+The monk handed the grandson a hammer because	m	4	4	8	subj	m	1
+The son told the husband to come back tomorrow because	m	4	4	10	subj	m	1
+The lord asked the brother to close the window because	m	4	4	10	subj	m	1
+The grandson is discussing with the grandfather about the course	m	6	6	10	subj	m	1
+The father brought the father some ideas which	m	4	4	8	subj	m	1
+The grandfather scanned documents for the grandfather because	m	6	6	8	subj	m	1
+The son dug a hole for the grandfather because	m	7	7	9	subj	m	1
+The grandson brought the uncle some ideas which	m	4	4	8	subj	m	1
+The brother was unable to communicate with the boy because	m	8	8	10	subj	m	1
+The groom would constantly make fun of the groom because	m	8	8	10	subj	m	1
+The monk helped the lord to pack up otherwise	m	4	4	9	subj	m	1
+The boy picked up the groom from the airport after	m	5	5	10	subj	m	1
+The grandson scanned documents for the father because	m	6	6	8	subj	m	1
+The boy is afraid of the son because	m	6	6	8	subj	m	1
+The son has more money than the grandfather since	m	7	7	9	subj	m	1
+The groom is telling the son what design	m	5	5	8	subj	m	1
+The son caught the monk stealing the money and	m	4	4	9	subj	m	1
+The man received a gift from the grandfather because	m	7	7	9	subj	m	1
+The monk told the lord to come back tomorrow because	m	4	4	10	subj	m	1
+The boy never drove the father anywhere because	m	5	5	8	subj	m	1
+The son is talking to the man about the thief	m	6	6	10	subj	m	1
+The grandson moved the desk for the boy because	m	7	7	9	subj	m	1
+The lord is afraid of the boy because	m	6	6	8	subj	m	1
+The brother likes to work with the lord because	m	7	7	9	subj	m	1
+The grandson went to the house of the son because	m	8	8	10	subj	m	1
+The monk suggested the grandfather get a new job because	m	4	4	10	subj	m	1
+The brother was a big fan of the lord because	m	8	8	10	subj	m	1
+The boy suggested the man get a new job because	m	4	4	10	subj	m	1
+The grandfather was a big fan of the lord because	m	8	8	10	subj	m	1
+The husband asked the husband for the books because	m	4	4	9	subj	m	1
+The groom owed the man some money and	m	4	4	8	subj	m	1
+The uncle gave the husband a present because	m	4	4	8	subj	m	1
+The lord gave a ride to the man so that	m	7	7	10	subj	m	1
+The groom showed dissatisfaction with the husband because	m	6	6	8	subj	m	1
+The man met with the husband so that	m	5	5	8	subj	m	1
+The brother wrote a book about the man because	m	7	7	9	subj	m	1
+The man is talking to the monk about the thief	m	6	6	10	subj	m	1
+The father helped the son to pack up otherwise	m	4	4	9	subj	m	1
+The grandson gave the man a present because	m	4	4	8	subj	m	1
+The groom asked the grandfather to be more careful because	m	4	4	10	subj	m	1
+The grandfather asked the uncle to stay late because	m	4	4	9	subj	m	1
+The groom cleaned the room for the father and	m	7	7	9	subj	m	1
+The husband asked the boy to go together because	m	4	4	9	subj	m	1
+The grandson examined the monk for sores because	m	4	4	8	subj	m	1
+The man swept up the groom ’s mess because	m	5	5	9	subj	m	1
+The father received care from the man but	m	6	6	8	subj	m	1
+The groom transported the boy to the hospital because	m	4	4	9	subj	m	1
+The man admires the work of the grandfather because	m	7	7	9	subj	m	1
+The uncle returned a book to the monk but	m	7	7	9	subj	m	1
+The grandfather appreciated getting treatment from the grandson because	m	7	7	9	subj	m	1
+The husband had a meeting with the grandson so	m	7	7	9	subj	m	1
+The monk invited the husband to the party because	m	4	4	9	subj	m	1
+The brother asked the son many questions because	m	4	4	8	subj	m	1
+The brother bought the grandfather a gift because	m	4	4	8	subj	m	1
+The grandson needed the lord to find a book because	m	4	4	10	subj	m	1
+The brother asked the grandfather to go together because	m	4	4	9	subj	m	1
+The lord asked the grandfather some questions as	m	4	4	8	subj	m	1
+The uncle examined the brother for injuries because	m	4	4	8	subj	m	1
+The boy accused the brother of theft because	m	4	4	8	subj	m	1
+The man scanned documents for the grandfather because	m	6	6	8	subj	m	1
+The monk never drove the grandfather anywhere because	m	5	5	8	subj	m	1
+The son offered to help the father because	m	6	6	8	subj	m	1
+The brother helped the groom to fix the engine and	m	4	4	10	subj	m	1
+The son accused the man of theft because	m	4	4	8	subj	m	1
+The uncle likes to work with the son because	m	7	7	9	subj	m	1
+The grandfather asked the groom to stay late because	m	4	4	9	subj	m	1
+The uncle was a big fan of the man because	m	8	8	10	subj	m	1
+The husband asked the grandson to withdraw the story because	m	4	4	10	subj	m	1
+The lord demanded the grandson leave the farm because	m	4	4	9	subj	m	1
+The son said thank you to the grandson because	m	7	7	9	subj	m	1
+The boy told the grandson to provide documentation because	m	4	4	9	subj	m	1
+The monk looked down on the grandson because	m	6	6	8	subj	m	1
+The man offered a ride to the grandfather but	m	7	7	9	subj	m	1
+The father is talking to the grandfather about the thief	m	6	6	10	subj	m	1
+The lord looked down on the son because	m	6	6	8	subj	m	1
+The father does not like the groom because	m	6	6	8	subj	m	1
+The lord examined the monk for injuries because	m	4	4	8	subj	m	1
+The monk is waiting for the man because	m	6	6	8	subj	m	1
+The man got mad at the uncle because	m	6	6	8	subj	m	1
+The monk made a desk for the monk because	m	7	7	9	subj	m	1
+The father appreciated getting treatment from the brother because	m	7	7	9	subj	m	1
+The grandfather told the groom to leave right now as	m	4	4	10	subj	m	1
+The monk asked the father to close the window because	m	4	4	10	subj	m	1
+The man missed the call from the husband because	m	7	7	9	subj	m	1
+The brother was good friends with the uncle because	m	7	7	9	subj	m	1
+The boy suggested the man get a new job because	m	4	4	10	subj	m	1
+The lord offered a ride to the son but	m	7	7	9	subj	m	1
+The son was unable to communicate with the husband because	m	8	8	10	subj	m	1
+The man had to hire the groom so that	m	6	6	9	subj	m	1
+The son likes the husband 's product and	m	4	4	8	subj	m	1
+The monk refused to help the son as	m	6	6	8	subj	m	1
+The son asked the grandson to close the window because	m	4	4	10	subj	m	1
+The groom asked the groom for an examination because	m	4	4	9	subj	m	1
+The son demanded the husband produce the book because	m	4	4	9	subj	m	1
+The husband examined the father for injuries because	m	4	4	8	subj	m	1
+The son is mad at the grandson because	m	6	6	8	subj	m	1
+The father is talking to the grandfather as	m	6	6	8	subj	m	1
+The grandson could not understand the grandfather because	m	6	6	8	subj	m	1
+The grandson saved the man from the criminals because	m	4	4	9	subj	m	1
+The grandson is talking to the monk as	m	6	6	8	subj	m	1
+The grandson created a beautiful chair for the man because	m	8	8	10	subj	m	1
+The brother scanned documents for the grandfather because	m	6	6	8	subj	m	1
+The husband helped the uncle fix the window quickly as	m	4	4	10	subj	m	1
+The man refused to help the father as	m	6	6	8	subj	m	1
+The lord asked the groom for the books because	m	4	4	9	subj	m	1
+The uncle is telling the monk what design	m	5	5	8	subj	m	1
+The boy was rude to the uncle because	m	6	6	8	subj	m	1
+The son prescribed the drugs to the husband , because	m	7	7	10	subj	m	1
+The lord looked down on the uncle because	m	6	6	8	subj	m	1
+The uncle needed the lord to find a book because	m	4	4	10	subj	m	1
+The boy had to hire the monk because	m	6	6	8	subj	m	1
+The monk looked down on the son because	m	6	6	8	subj	m	1
+The lord brought the brother some ideas which	m	4	4	8	subj	m	1
+The man tries to approach the grandson because	m	6	6	8	subj	m	1
+The lord gave the husband a ride because	m	4	4	8	subj	m	1
+The monk struck a friendship with the brother because	m	7	7	9	subj	m	1
+The son brought the father some ideas which	m	4	4	8	subj	m	1
+The uncle would constantly make fun of the grandfather because	m	8	8	10	subj	m	1
+The husband fixed the uncle 's car and then	m	4	4	9	subj	m	1
+The father cleaned the room for the son and	m	7	7	9	subj	m	1
+The monk earns more than the husband because	m	6	6	8	subj	m	1
+The boy demanded the brother produce the book because	m	4	4	9	subj	m	1
+The uncle asked the groom to go together because	m	4	4	9	subj	m	1
+The brother never talked with the uncle because	m	6	6	8	subj	m	1
+The grandson charged the brother one hundred dollars although	m	4	4	9	subj	m	1
+The son handed the application to the uncle because	m	7	7	9	subj	m	1
+The man saved the lord from the criminals because	m	4	4	9	subj	m	1
+The boy asked the uncle to be more careful because	m	4	4	10	subj	m	1
+The grandfather charged the grandfather one hundred dollars although	m	4	4	9	subj	m	1
+The groom is talking to the father about the assignments	m	6	6	10	subj	m	1
+The son asked the grandson to prepare some documents because	m	4	4	10	subj	m	1
+The grandson troubles the grandfather a lot because	m	4	4	8	subj	m	1
+The brother gave the groom a bag of eggs because	m	4	4	10	subj	m	1
+The husband moved the desk for the grandfather because	m	7	7	9	subj	m	1
+The grandson asked the son to close the window because	m	4	4	10	subj	m	1
+The groom handed the lord a hammer because	m	4	4	8	subj	m	1
+The husband picked up bread from the husband because	m	7	7	9	subj	m	1
+The father suggested the son get a new job because	m	4	4	10	subj	m	1
+The grandson got mad at the lord because	m	6	6	8	subj	m	1
+The lord is discussing with the grandson about the course	m	6	6	10	subj	m	1
+The uncle is waiting for the groom because	m	6	6	8	subj	m	1
+The grandson tried to avoid seeing the brother because	m	7	7	9	subj	m	1
+The uncle wanted to meet the man because	m	6	6	8	subj	m	1
+The lord swept up the son ’s mess because	m	5	5	9	subj	m	1
+The son bought a beer for the monk because	m	7	7	9	subj	m	1
+The lord likes the grandson 's product and	m	4	4	8	subj	m	1
+The grandson looked down on the boy because	m	6	6	8	subj	m	1
+The father is telling the grandfather what design	m	5	5	8	subj	m	1
+The uncle could not understand the lord because	m	6	6	8	subj	m	1
+The grandfather was angry at the lord as	m	6	6	8	subj	m	1
+The father agreed to raise the brother 's salary because	m	6	6	10	subj	m	1
+The brother suspected the uncle was the murderer but	m	4	4	9	subj	m	1
+The grandson does not like the boy because	m	6	6	8	subj	m	1
+The groom built a website for the uncle because	m	7	7	9	subj	m	1
+The uncle protected the monk in the accident and	m	4	4	9	subj	m	1
+The lord took the husband on a ride because	m	4	4	9	subj	m	1
+The son prescribed the drugs to the lord , because	m	7	7	10	subj	m	1
+The groom examined the groom for eye problems because	m	4	4	9	subj	m	1
+The grandfather gave the man a ride because	m	4	4	8	subj	m	1
+The monk admires the work of the grandfather because	m	7	7	9	subj	m	1
+The son is waiting for the husband because	m	6	6	8	subj	m	1
+The uncle protected the boy in the accident and	m	4	4	9	subj	m	1
+The man asked the uncle for the books because	m	4	4	9	subj	m	1
+The man asked the father to pick up papers because	m	4	4	10	subj	m	1
+The grandfather fixed the groom 's car and then	m	4	4	9	subj	m	1
+The grandfather looked down on the boy because	m	6	6	8	subj	m	1
+The groom demanded the uncle produce the book because	m	4	4	9	subj	m	1
+The man cleaned the room for the son and	m	7	7	9	subj	m	1
+The man traded services with the brother because	m	6	6	8	subj	m	1
+The son missed the call from the lord because	m	7	7	9	subj	m	1
+The husband asked the groom to prepare the paperwork because	m	4	4	10	subj	m	1
+The monk created a beautiful chair for the boy because	m	8	8	10	subj	m	1
+The groom told the husband to come back tomorrow because	m	4	4	10	subj	m	1
+The groom bought the monk a gift because	m	4	4	8	subj	m	1
+The grandfather accused the grandfather of theft because	m	4	4	8	subj	m	1
+The boy earns more than the father because	m	6	6	8	subj	m	1
+The father asked the father to withdraw the story because	m	4	4	10	subj	m	1
+The uncle wanted to meet the lord because	m	6	6	8	subj	m	1
+The father tried to avoid seeing the lord because	m	7	7	9	subj	m	1
+The brother asked the monk to prepare some documents because	m	4	4	10	subj	m	1
+The brother examined the grandson for sores because	m	4	4	8	subj	m	1
+The grandson helped the uncle fix the window quickly as	m	4	4	10	subj	m	1
+The uncle told the father the good news that	m	4	4	9	subj	m	1
+The boy charged the uncle one hundred dollars although	m	4	4	9	subj	m	1
+The grandfather asked the father to prepare the paperwork because	m	4	4	10	subj	m	1
+The grandson is discussing with the grandson about the course	m	6	6	10	subj	m	1
+The uncle asked the groom to prepare some documents because	m	4	4	10	subj	m	1
+The son meets the lord every week because	m	4	4	8	subj	m	1
+The brother is talking to the uncle about the assignments	m	6	6	10	subj	m	1
+The man demanded an apology from the groom because	m	7	7	9	subj	m	1
+The boy is talking to the father as	m	6	6	8	subj	m	1
+The groom wrote a letter to the son because	m	7	7	9	subj	m	1
+The lord demanded more bread from the boy because	m	7	7	9	subj	m	1
+The husband examined the groom for injuries because	m	4	4	8	subj	m	1
+The husband sent a report to the uncle because	m	7	7	9	subj	m	1
+The boy brought the son some ideas which	m	4	4	8	subj	m	1
+The groom moved the desk for the husband because	m	7	7	9	subj	m	1
+The son examined the son for eye problems because	m	4	4	9	subj	m	1
+The boy likes to work with the father because	m	7	7	9	subj	m	1
+The monk demanded to be seen by the man because	m	8	8	10	subj	m	1
+The brother needed the grandfather to find a book because	m	4	4	10	subj	m	1
+The man bought a beer for the uncle because	m	7	7	9	subj	m	1
+The man likes the boy 's product and	m	4	4	8	subj	m	1
+The lord accused the lord of theft because	m	4	4	8	subj	m	1
+The grandson was unable to communicate with the monk because	m	8	8	10	subj	m	1
+The grandfather gave the son a ride because	m	4	4	8	subj	m	1
+The boy waited for the man for a while because	m	5	5	10	subj	m	1
+The groom gave a ride to the brother so that	m	7	7	10	subj	m	1
+The father showed dissatisfaction with the husband because	m	6	6	8	subj	m	1
+The brother demanded an apology from the boy because	m	7	7	9	subj	m	1
+The uncle dug a hole for the father because	m	7	7	9	subj	m	1
+The husband helped the man to pack up otherwise	m	4	4	9	subj	m	1
+The son needed the father to find a book because	m	4	4	10	subj	m	1
+The grandson admires the work of the monk because	m	7	7	9	subj	m	1
+The husband gave a ride to the father so that	m	7	7	10	subj	m	1
+The father was impressed by the lord because	m	6	6	8	subj	m	1
+The man does not like the lord because	m	6	6	8	subj	m	1
+The uncle asked the lord to withdraw the story because	m	4	4	10	subj	m	1
+The husband suspected the boy was the murderer but	m	4	4	9	subj	m	1
+The man asked the monk to close the window because	m	4	4	10	subj	m	1
+The father prepared dinner for the grandson and	m	6	6	8	subj	m	1
+The uncle was rude to the son because	m	6	6	8	subj	m	1
+The husband is discussing with the man about the course	m	6	6	10	subj	m	1
+The monk gave the lord a tip because	m	4	4	8	subj	m	1
+The husband earns more than the boy because	m	6	6	8	subj	m	1
+The father accused the son of theft because	m	4	4	8	subj	m	1
+The boy examined the grandson for sores because	m	4	4	8	subj	m	1
+The grandfather asked the grandfather for an examination because	m	4	4	9	subj	m	1

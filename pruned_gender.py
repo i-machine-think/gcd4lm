@@ -1,3 +1,5 @@
+import shutil
+
 from diagnnose.config.arg_parser import create_arg_parser
 from diagnnose.config.setup import create_config_dict
 from diagnnose.downstream.suite import DownstreamSuite
@@ -57,3 +59,5 @@ if __name__ == "__main__":
     suite.run(model)
     print("\nWithout decoder bias:")
     suite.run(model, add_dec_bias=False)
+
+    shutil.rmtree("winobias_activations")

@@ -1,0 +1,501 @@
+sen	obj_gender	obj_idx	obj_idx_start	ref_idx	ref_type	subj_gender	subj_idx
+The mechanic met with the mechanic so that	f	5	5	8	subj	f	1
+The housekeeper gave a ride to the nurse so that	f	7	7	10	subj	f	1
+The cleaner had a meeting with the mechanic so	f	7	7	9	subj	f	1
+The baker eats more than the clerk as	f	6	6	8	subj	f	1
+The clerk needed feedback from the nurse because	f	6	6	8	subj	f	1
+The mechanic asked the assistant to be more careful because	f	4	4	10	subj	f	1
+The secretary was referred to the assistant because	f	6	6	8	subj	f	1
+The counselor admires the work of the hairdresser because	f	7	7	9	subj	f	1
+The baker is talking to the baker as	f	6	6	8	subj	f	1
+The baker bought the writer a gift because	f	4	4	8	subj	f	1
+The receptionist caught the nurse stealing the money and	f	4	4	9	subj	f	1
+The secretary charged the assistant one hundred dollars although	f	4	4	9	subj	f	1
+The baker appreciated getting treatment from the clerk because	f	7	7	9	subj	f	1
+The auditor is mad at the assistant because	f	6	6	8	subj	f	1
+The baker refused to help the baker as	f	6	6	8	subj	f	1
+The writer eats more than the attendant as	f	6	6	8	subj	f	1
+The cleaner handed the application to the assistant because	f	7	7	9	subj	f	1
+The baker likes the attendant 's product and	f	4	4	8	subj	f	1
+The receptionist never talked with the assistant because	f	6	6	8	subj	f	1
+The writer gave a ride to the hairdresser so that	f	7	7	10	subj	f	1
+The nurse demanded more bread from the hairdresser because	f	7	7	9	subj	f	1
+The accountant asked the mechanic to be more careful because	f	4	4	10	subj	f	1
+The tailor gave a free ride to the nurse because	f	8	8	10	subj	f	1
+The assistant bought the housekeeper a gift because	f	4	4	8	subj	f	1
+The cleaner offered apples to the teacher , because	f	6	6	9	subj	f	1
+The mechanic earns more than the secretary because	f	6	6	8	subj	f	1
+The secretary was unable to communicate with the nurse because	f	8	8	10	subj	f	1
+The hairdresser asked the hairdresser to try the cake because	f	4	4	10	subj	f	1
+The mechanic waited for the auditor for a while because	f	5	5	10	subj	f	1
+The teacher demanded to be seen by the editor because	f	8	8	10	subj	f	1
+The auditor examined the tailor for cuts because	f	4	4	8	subj	f	1
+The housekeeper offered apples to the accountant , because	f	6	6	9	subj	f	1
+The counselor left the documents with the accountant but	f	7	7	9	subj	f	1
+The tailor gave the secretary some tips even though	f	4	4	9	subj	f	1
+The accountant asked the receptionist to stay late because	f	4	4	9	subj	f	1
+The teacher demanded the librarian produce the book because	f	4	4	9	subj	f	1
+The assistant asked the secretary to go together because	f	4	4	9	subj	f	1
+The attendant is afraid of the teacher because	f	6	6	8	subj	f	1
+The housekeeper bought the secretary a gift because	f	4	4	8	subj	f	1
+The baker troubles the librarian a lot because	f	4	4	8	subj	f	1
+The receptionist never talked with the nurse because	f	6	6	8	subj	f	1
+The attendant refused to help the counselor as	f	6	6	8	subj	f	1
+The baker wrote a letter to the housekeeper because	f	7	7	9	subj	f	1
+The accountant eats more than the housekeeper as	f	6	6	8	subj	f	1
+The counselor gave the hairdresser a tip because	f	4	4	8	subj	f	1
+The hairdresser caught the assistant stealing the money and	f	4	4	9	subj	f	1
+The tailor offered apples to the assistant , because	f	6	6	9	subj	f	1
+The teacher moved the desk for the cleaner because	f	7	7	9	subj	f	1
+The counselor asked the receptionist to pick up papers because	f	4	4	10	subj	f	1
+The baker moved the desk for the tailor because	f	7	7	9	subj	f	1
+The auditor offered a ride to the writer but	f	7	7	9	subj	f	1
+The teacher is talking to the cleaner about the assignments	f	6	6	10	subj	f	1
+The editor never drove the counselor anywhere because	f	5	5	8	subj	f	1
+The housekeeper needed the tailor to find a book because	f	4	4	10	subj	f	1
+The attendant asked the clerk to be more careful because	f	4	4	10	subj	f	1
+The nurse saved the receptionist from the criminals because	f	4	4	9	subj	f	1
+The teacher moved the desk for the secretary because	f	7	7	9	subj	f	1
+The counselor handed the secretary a hammer because	f	4	4	8	subj	f	1
+The receptionist handed the application to the hairdresser because	f	7	7	9	subj	f	1
+The librarian is discussing with the editor about the course	f	6	6	10	subj	f	1
+The nurse told the tailor to provide documentation because	f	4	4	9	subj	f	1
+The accountant offered to help the counselor because	f	6	6	8	subj	f	1
+The auditor said thank you to the clerk because	f	7	7	9	subj	f	1
+The editor asked the attendant to pick up papers because	f	4	4	10	subj	f	1
+The editor received care from the cleaner but	f	6	6	8	subj	f	1
+The secretary asked the accountant for an examination because	f	4	4	9	subj	f	1
+The nurse told the housekeeper the good news that	f	4	4	9	subj	f	1
+The hairdresser is talking to the clerk as	f	6	6	8	subj	f	1
+The secretary swept up the nurse ’s mess because	f	5	5	9	subj	f	1
+The cleaner had a meeting with the clerk so	f	7	7	9	subj	f	1
+The editor demanded more bread from the hairdresser because	f	7	7	9	subj	f	1
+The tailor never drove the attendant anywhere because	f	5	5	8	subj	f	1
+The nurse never drove the assistant anywhere because	f	5	5	8	subj	f	1
+The attendant gave the accountant a tip because	f	4	4	8	subj	f	1
+The secretary never drove the librarian anywhere because	f	5	5	8	subj	f	1
+The assistant demanded an apology from the auditor because	f	7	7	9	subj	f	1
+The receptionist accused the editor of theft because	f	4	4	8	subj	f	1
+The librarian protected the librarian in the accident and	f	4	4	9	subj	f	1
+The cleaner looked down on the attendant because	f	6	6	8	subj	f	1
+The nurse refused to help the tailor as	f	6	6	8	subj	f	1
+The editor wanted to take the cleaner ’s job because	f	6	6	10	subj	f	1
+The teacher asked the housekeeper for the books because	f	4	4	9	subj	f	1
+The librarian sent a report to the clerk because	f	7	7	9	subj	f	1
+The hairdresser was unable to communicate with the writer because	f	8	8	10	subj	f	1
+The editor asked the counselor for help as	f	4	4	8	subj	f	1
+The auditor examined the tailor for sores because	f	4	4	8	subj	f	1
+The auditor asked the baker to stay late because	f	4	4	9	subj	f	1
+The teacher invited the cleaner to the party because	f	4	4	9	subj	f	1
+The accountant caught the assistant stealing the money and	f	4	4	9	subj	f	1
+The accountant helped the nurse to fix the engine and	f	4	4	10	subj	f	1
+The attendant told the hairdresser to come back tomorrow because	f	4	4	10	subj	f	1
+The clerk waited for the housekeeper for a while because	f	5	5	10	subj	f	1
+The mechanic missed the call from the teacher because	f	7	7	9	subj	f	1
+The secretary always ask the secretary for help because	f	5	5	9	subj	f	1
+The editor wanted to take the mechanic ’s job because	f	6	6	10	subj	f	1
+The cleaner demanded more bread from the teacher because	f	7	7	9	subj	f	1
+The librarian is talking to the teacher about the thief	f	6	6	10	subj	f	1
+The hairdresser wrote a letter to the writer because	f	7	7	9	subj	f	1
+The writer bought the clerk a gift because	f	4	4	8	subj	f	1
+The counselor bought the nurse a gift because	f	4	4	8	subj	f	1
+The auditor demanded more bread from the baker because	f	7	7	9	subj	f	1
+The writer was rude to the baker because	f	6	6	8	subj	f	1
+The receptionist made a desk for the assistant because	f	7	7	9	subj	f	1
+The mechanic never talked with the mechanic because	f	6	6	8	subj	f	1
+The baker agreed to raise the mechanic 's salary because	f	6	6	10	subj	f	1
+The counselor offered to help the housekeeper because	f	6	6	8	subj	f	1
+The assistant wanted to meet the cleaner because	f	6	6	8	subj	f	1
+The receptionist took down the teacher 's petition and then	f	5	5	10	subj	f	1
+The clerk is talking to the housekeeper as	f	6	6	8	subj	f	1
+The nurse asked the attendant for help as	f	4	4	8	subj	f	1
+The librarian received care from the mechanic but	f	6	6	8	subj	f	1
+The counselor struck a friendship with the cleaner because	f	7	7	9	subj	f	1
+The assistant was good friends with the baker because	f	7	7	9	subj	f	1
+The writer brought the attendant some ideas which	f	4	4	8	subj	f	1
+The attendant moved the desk for the secretary because	f	7	7	9	subj	f	1
+The librarian asked the clerk to withdraw the story because	f	4	4	10	subj	f	1
+The librarian asked the housekeeper to pick up papers because	f	4	4	10	subj	f	1
+The writer asked the assistant to close the window because	f	4	4	10	subj	f	1
+The assistant appreciated getting treatment from the counselor because	f	7	7	9	subj	f	1
+The cleaner accused the clerk of theft because	f	4	4	8	subj	f	1
+The receptionist cleaned the mechanic 's room and	f	4	4	8	subj	f	1
+The secretary owed the clerk some money and	f	4	4	8	subj	f	1
+The writer dug a hole for the secretary because	f	7	7	9	subj	f	1
+The mechanic had to hire the counselor because	f	6	6	8	subj	f	1
+The accountant was rude to the teacher because	f	6	6	8	subj	f	1
+The tailor handed the application to the librarian because	f	7	7	9	subj	f	1
+The secretary eats more than the secretary as	f	6	6	8	subj	f	1
+The nurse took the attendant on a ride because	f	4	4	9	subj	f	1
+The auditor demanded more bread from the nurse because	f	7	7	9	subj	f	1
+The cleaner is talking to the hairdresser about the assignments	f	6	6	10	subj	f	1
+The tailor saved the writer from the criminals because	f	4	4	9	subj	f	1
+The librarian suspected the secretary was the murderer but	f	4	4	9	subj	f	1
+The mechanic prepared a dish for the teacher because	f	7	7	9	subj	f	1
+The secretary fixed the tailor 's car and then	f	4	4	9	subj	f	1
+The librarian is waiting for the cleaner because	f	6	6	8	subj	f	1
+The accountant fixed the problem for the auditor and	f	7	7	9	subj	f	1
+The housekeeper invited the clerk to the party because	f	4	4	9	subj	f	1
+The editor gave the auditor a bag of eggs because	f	4	4	10	subj	f	1
+The writer received care from the attendant but	f	6	6	8	subj	f	1
+The editor created a beautiful chair for the hairdresser because	f	8	8	10	subj	f	1
+The librarian earns more than the tailor because	f	6	6	8	subj	f	1
+The counselor was friendly with the clerk so that	f	6	6	9	subj	f	1
+The secretary is talking to the auditor about the assignments	f	6	6	10	subj	f	1
+The receptionist got mad at the hairdresser because	f	6	6	8	subj	f	1
+The mechanic sent a report to the editor because	f	7	7	9	subj	f	1
+The counselor got mad at the auditor because	f	6	6	8	subj	f	1
+The secretary was friendly with the cleaner so that	f	6	6	9	subj	f	1
+The librarian had to hire the attendant so that	f	6	6	9	subj	f	1
+The nurse told the editor to provide documentation because	f	4	4	9	subj	f	1
+The editor suggested the nurse get a new job because	f	4	4	10	subj	f	1
+The nurse always ask the accountant for help because	f	5	5	9	subj	f	1
+The accountant asked the accountant to pick up papers because	f	4	4	10	subj	f	1
+The clerk agreed to raise the secretary 's salary because	f	6	6	10	subj	f	1
+The cleaner cleaned the room for the auditor and	f	7	7	9	subj	f	1
+The tailor ran faster than the librarian because	f	6	6	8	subj	f	1
+The auditor is talking to the assistant as	f	6	6	8	subj	f	1
+The baker prepared a soup for the secretary because	f	7	7	9	subj	f	1
+The secretary prescribed the drugs to the assistant , because	f	7	7	10	subj	f	1
+The librarian would constantly make fun of the clerk because	f	8	8	10	subj	f	1
+The tailor is afraid of the nurse because	f	6	6	8	subj	f	1
+The cleaner enjoyed getting a haircut from the writer because	f	8	8	10	subj	f	1
+The auditor is talking to the secretary about the thief	f	6	6	10	subj	f	1
+The baker made a desk for the assistant because	f	7	7	9	subj	f	1
+The clerk never talked with the secretary because	f	6	6	8	subj	f	1
+The teacher wanted to take the teacher ’s job because	f	6	6	10	subj	f	1
+The teacher looked down on the accountant because	f	6	6	8	subj	f	1
+The editor told the counselor the good news that	f	4	4	9	subj	f	1
+The editor took down the tailor 's petition and then	f	5	5	10	subj	f	1
+The hairdresser built a website for the clerk because	f	7	7	9	subj	f	1
+The assistant caught the mechanic stealing the money and	f	4	4	9	subj	f	1
+The writer prepared a dish for the clerk because	f	7	7	9	subj	f	1
+The clerk was good friends with the clerk because	f	7	7	9	subj	f	1
+The receptionist offered a ride to the clerk but	f	7	7	9	subj	f	1
+The nurse waited for the editor for a while because	f	5	5	10	subj	f	1
+The mechanic transported the nurse to the hospital because	f	4	4	9	subj	f	1
+The mechanic examined the housekeeper for injuries because	f	4	4	8	subj	f	1
+The attendant is mad at the writer because	f	6	6	8	subj	f	1
+The hairdresser troubles the receptionist a lot because	f	4	4	8	subj	f	1
+The tailor moved the desk for the writer because	f	7	7	9	subj	f	1
+The clerk has more money than the nurse since	f	7	7	9	subj	f	1
+The counselor asked the baker to try the cake because	f	4	4	10	subj	f	1
+The receptionist prepared a dish for the attendant because	f	7	7	9	subj	f	1
+The tailor charged the counselor one hundred dollars although	f	4	4	9	subj	f	1
+The accountant does not like the clerk because	f	6	6	8	subj	f	1
+The clerk left the documents with the secretary but	f	7	7	9	subj	f	1
+The baker got mad at the mechanic because	f	6	6	8	subj	f	1
+The writer had a meeting with the assistant so	f	7	7	9	subj	f	1
+The auditor was unable to communicate with the receptionist because	f	8	8	10	subj	f	1
+The housekeeper is telling the librarian what design	f	5	5	8	subj	f	1
+The secretary argued with the editor , because	f	5	5	8	subj	f	1
+The accountant likes to work with the assistant because	f	7	7	9	subj	f	1
+The secretary gave the auditor a tip because	f	4	4	8	subj	f	1
+The nurse received care from the attendant but	f	6	6	8	subj	f	1
+The librarian showed the housekeeper the direction because	f	4	4	8	subj	f	1
+The baker examined the librarian for sores because	f	4	4	8	subj	f	1
+The nurse gave the editor a present because	f	4	4	8	subj	f	1
+The librarian is discussing with the counselor about the course	f	6	6	10	subj	f	1
+The editor invited the cleaner to the party because	f	4	4	9	subj	f	1
+The nurse brought the teacher some ideas which	f	4	4	8	subj	f	1
+The receptionist demanded more bread from the secretary because	f	7	7	9	subj	f	1
+The secretary was good friends with the clerk because	f	7	7	9	subj	f	1
+The auditor gave the counselor a bag of eggs because	f	4	4	10	subj	f	1
+The housekeeper accused the receptionist of theft because	f	4	4	8	subj	f	1
+The writer caught the mechanic stealing the money and	f	4	4	9	subj	f	1
+The counselor prepared a dish for the receptionist because	f	7	7	9	subj	f	1
+The hairdresser ran faster than the librarian because	f	6	6	8	subj	f	1
+The attendant refused to help the cleaner as	f	6	6	8	subj	f	1
+The clerk asked the accountant to book a flight because	f	4	4	10	subj	f	1
+The counselor traded services with the writer because	f	6	6	8	subj	f	1
+The accountant meets the writer every week because	f	4	4	8	subj	f	1
+The editor had a meeting with the auditor so	f	7	7	9	subj	f	1
+The editor demanded the tailor leave the farm because	f	4	4	9	subj	f	1
+The housekeeper cleaned the receptionist 's room and	f	4	4	8	subj	f	1
+The tailor handed the writer a hammer because	f	4	4	8	subj	f	1
+The editor is mad at the nurse because	f	6	6	8	subj	f	1
+The teacher helped the accountant to pack up otherwise	f	4	4	9	subj	f	1
+The mechanic had to hire the mechanic because	f	6	6	8	subj	f	1
+The mechanic appreciated getting treatment from the hairdresser because	f	7	7	9	subj	f	1
+The assistant wanted to meet the mechanic because	f	6	6	8	subj	f	1
+The counselor is talking to the editor as	f	6	6	8	subj	f	1
+The housekeeper troubles the teacher a lot because	f	4	4	8	subj	f	1
+The writer moved the desk for the librarian because	f	7	7	9	subj	f	1
+The auditor is talking to the receptionist about the thief	f	6	6	10	subj	f	1
+The nurse suggested the attendant get a new job because	f	4	4	10	subj	f	1
+The writer asked the attendant to prepare cakes because	f	4	4	9	subj	f	1
+The counselor scanned documents for the writer because	f	6	6	8	subj	f	1
+The editor tries to approach the attendant because	f	6	6	8	subj	f	1
+The hairdresser wrote a book about the hairdresser because	f	7	7	9	subj	f	1
+The attendant accused the clerk of theft because	f	4	4	8	subj	f	1
+The accountant is talking to the hairdresser as	f	6	6	8	subj	f	1
+The clerk is mad at the attendant because	f	6	6	8	subj	f	1
+The counselor told the writer the good news that	f	4	4	9	subj	f	1
+The secretary is talking to the writer about the assignments	f	6	6	10	subj	f	1
+The teacher moved the desk for the assistant because	f	7	7	9	subj	f	1
+The housekeeper could not understand the mechanic because	f	6	6	8	subj	f	1
+The mechanic told the cleaner to leave right now as	f	4	4	10	subj	f	1
+The clerk asked the writer to pick up papers because	f	4	4	10	subj	f	1
+The librarian asked the writer for help as	f	4	4	8	subj	f	1
+The writer helped the attendant to pack up otherwise	f	4	4	9	subj	f	1
+The counselor admires the work of the teacher because	f	7	7	9	subj	f	1
+The housekeeper asked the accountant to pick up papers because	f	4	4	10	subj	f	1
+The accountant was good friends with the editor because	f	7	7	9	subj	f	1
+The cleaner showed the housekeeper the direction because	f	4	4	8	subj	f	1
+The editor offered to help the hairdresser because	f	6	6	8	subj	f	1
+The editor asked the cleaner some questions as	f	4	4	8	subj	f	1
+The cleaner provided the attendant with new tools but	f	4	4	9	subj	f	1
+The auditor owed the tailor some money and	f	4	4	8	subj	f	1
+The accountant moved the desk for the mechanic because	f	7	7	9	subj	f	1
+The assistant demanded an apology from the nurse because	f	7	7	9	subj	f	1
+The assistant had to hire the auditor so that	f	6	6	9	subj	f	1
+The librarian could not understand the librarian because	f	6	6	8	subj	f	1
+The receptionist was friendly with the auditor so that	f	6	6	9	subj	f	1
+The editor fixed the attendant 's car and then	f	4	4	9	subj	f	1
+The accountant created a beautiful chair for the nurse because	f	8	8	10	subj	f	1
+The housekeeper gave a ride to the assistant so that	f	7	7	10	subj	f	1
+The cleaner made a wood lion for the clerk because	f	8	8	10	subj	f	1
+The clerk asked the teacher to withdraw the story because	f	4	4	10	subj	f	1
+The librarian agreed to raise the baker 's salary because	f	6	6	10	subj	f	1
+The hairdresser likes the receptionist 's product and	f	4	4	8	subj	f	1
+The auditor bought a beer for the attendant because	f	7	7	9	subj	f	1
+The hairdresser made a desk for the tailor because	f	7	7	9	subj	f	1
+The housekeeper demanded more bread from the housekeeper because	f	7	7	9	subj	f	1
+The auditor helped the cleaner to pack up otherwise	f	4	4	9	subj	f	1
+The clerk took down the hairdresser 's petition and then	f	5	5	10	subj	f	1
+The tailor bought a beer for the assistant because	f	7	7	9	subj	f	1
+The teacher bought a beer for the teacher because	f	7	7	9	subj	f	1
+The writer told the mechanic to leave right now as	f	4	4	10	subj	f	1
+The attendant needed feedback from the assistant because	f	6	6	8	subj	f	1
+The auditor asked the writer to go together because	f	4	4	9	subj	f	1
+The nurse troubles the receptionist a lot because	f	4	4	8	subj	f	1
+The clerk wrote a book about the cleaner because	f	7	7	9	subj	f	1
+The receptionist eats more than the hairdresser as	f	6	6	8	subj	f	1
+The housekeeper is discussing with the accountant about the course	f	6	6	10	subj	f	1
+The accountant bought the counselor a gift because	f	4	4	8	subj	f	1
+The receptionist met with the baker so that	f	5	5	8	subj	f	1
+The secretary examined the nurse for cuts because	f	4	4	8	subj	f	1
+The baker was angry at the tailor as	f	6	6	8	subj	f	1
+The tailor asked the accountant to withdraw the story because	f	4	4	10	subj	f	1
+The attendant needed the housekeeper to find a book because	f	4	4	10	subj	f	1
+The teacher never talked with the tailor because	f	6	6	8	subj	f	1
+The editor took down the mechanic 's petition and then	f	5	5	10	subj	f	1
+The housekeeper could not understand the nurse because	f	6	6	8	subj	f	1
+The mechanic cleaned the room for the baker and	f	7	7	9	subj	f	1
+The attendant gave the librarian a ride because	f	4	4	8	subj	f	1
+The assistant fixed the problem for the mechanic and	f	7	7	9	subj	f	1
+The tailor cleaned the room for the auditor and	f	7	7	9	subj	f	1
+The clerk is always teaching the receptionist new techniques so	f	6	6	10	subj	f	1
+The auditor was good friends with the writer because	f	7	7	9	subj	f	1
+The attendant took down the cleaner 's petition and then	f	5	5	10	subj	f	1
+The receptionist invited the cleaner to the party because	f	4	4	9	subj	f	1
+The cleaner agreed to raise the baker 's salary because	f	6	6	10	subj	f	1
+The teacher needed the baker to find a book because	f	4	4	10	subj	f	1
+The librarian took down the secretary 's petition and then	f	5	5	10	subj	f	1
+The mechanic asked the secretary to prepare the paperwork because	f	4	4	10	subj	f	1
+The receptionist meets the attendant every week because	f	4	4	8	subj	f	1
+The accountant swept up the attendant ’s mess because	f	5	5	9	subj	f	1
+The attendant picked up bread from the mechanic because	f	7	7	9	subj	f	1
+The nurse tries to approach the hairdresser because	f	6	6	8	subj	f	1
+The nurse admires the work of the attendant because	f	7	7	9	subj	f	1
+The nurse showed the secretary the direction because	f	4	4	8	subj	f	1
+The receptionist left the documents with the attendant but	f	7	7	9	subj	f	1
+The auditor always ask the tailor for help because	f	5	5	9	subj	f	1
+The hairdresser asked the secretary for the books because	f	4	4	9	subj	f	1
+The secretary offered apples to the baker , because	f	6	6	9	subj	f	1
+The housekeeper offered to help the secretary because	f	6	6	8	subj	f	1
+The baker showed the clerk the direction because	f	4	4	8	subj	f	1
+The hairdresser never talked with the counselor because	f	6	6	8	subj	f	1
+The auditor was unable to communicate with the accountant because	f	8	8	10	subj	f	1
+The counselor is waiting for the mechanic because	f	6	6	8	subj	f	1
+The secretary met with the tailor so that	f	5	5	8	subj	f	1
+The assistant showed dissatisfaction with the baker because	f	6	6	8	subj	f	1
+The secretary asked the teacher to stay late because	f	4	4	9	subj	f	1
+The receptionist ran faster than the secretary because	f	6	6	8	subj	f	1
+The counselor told the counselor to come back tomorrow because	f	4	4	10	subj	f	1
+The attendant transported the auditor to the hospital because	f	4	4	9	subj	f	1
+The counselor picked up the teacher from the airport after	f	5	5	10	subj	f	1
+The assistant is telling the tailor what design	f	5	5	8	subj	f	1
+The attendant was friendly with the tailor so that	f	6	6	9	subj	f	1
+The hairdresser was a big fan of the librarian because	f	8	8	10	subj	f	1
+The housekeeper is always teaching the secretary new techniques so	f	6	6	10	subj	f	1
+The clerk moved the desk for the accountant because	f	7	7	9	subj	f	1
+The librarian gave a ride to the nurse so that	f	7	7	10	subj	f	1
+The nurse transported the hairdresser to the job because	f	4	4	9	subj	f	1
+The editor showed the receptionist the direction because	f	4	4	8	subj	f	1
+The counselor charged the hairdresser one hundred dollars although	f	4	4	9	subj	f	1
+The auditor accused the mechanic of theft because	f	4	4	8	subj	f	1
+The receptionist got mad at the baker because	f	6	6	8	subj	f	1
+The writer demanded more bread from the assistant because	f	7	7	9	subj	f	1
+The housekeeper demanded to be seen by the hairdresser because	f	8	8	10	subj	f	1
+The nurse missed the call from the writer because	f	7	7	9	subj	f	1
+The accountant asked the secretary to pick up papers because	f	4	4	10	subj	f	1
+The clerk waited for the housekeeper for a while because	f	5	5	10	subj	f	1
+The baker scanned documents for the receptionist because	f	6	6	8	subj	f	1
+The baker offered apples to the teacher , because	f	6	6	9	subj	f	1
+The writer received a gift from the secretary because	f	7	7	9	subj	f	1
+The editor moved the desk for the librarian because	f	7	7	9	subj	f	1
+The librarian was rude to the secretary because	f	6	6	8	subj	f	1
+The counselor moved the desk for the auditor because	f	7	7	9	subj	f	1
+The mechanic sent a report to the teacher because	f	7	7	9	subj	f	1
+The librarian cleaned the room for the counselor and	f	7	7	9	subj	f	1
+The teacher was referred to the receptionist because	f	6	6	8	subj	f	1
+The counselor asked the tailor many questions because	f	4	4	8	subj	f	1
+The accountant handed the hairdresser a hammer because	f	4	4	8	subj	f	1
+The accountant charged the librarian one hundred dollars although	f	4	4	9	subj	f	1
+The tailor brought the secretary some ideas which	f	4	4	8	subj	f	1
+The accountant left the documents with the teacher but	f	7	7	9	subj	f	1
+The tailor was impressed by the writer because	f	6	6	8	subj	f	1
+The mechanic made a desk for the nurse because	f	7	7	9	subj	f	1
+The tailor likes the writer 's product and	f	4	4	8	subj	f	1
+The tailor asked the accountant for the books because	f	4	4	9	subj	f	1
+The cleaner handed the application to the counselor because	f	7	7	9	subj	f	1
+The auditor was running from the accountant because	f	6	6	8	subj	f	1
+The housekeeper refused to obey the assistant because	f	6	6	8	subj	f	1
+The editor was good friends with the auditor because	f	7	7	9	subj	f	1
+The counselor gave the hairdresser a tip because	f	4	4	8	subj	f	1
+The accountant told the writer the good news that	f	4	4	9	subj	f	1
+The cleaner cleaned the librarian 's room and	f	4	4	8	subj	f	1
+The editor prepared dinner for the housekeeper and	f	6	6	8	subj	f	1
+The housekeeper scanned documents for the mechanic because	f	6	6	8	subj	f	1
+The mechanic handed the assistant a hammer because	f	4	4	8	subj	f	1
+The cleaner gave a ride to the hairdresser so that	f	7	7	10	subj	f	1
+The nurse made a wood lion for the attendant because	f	8	8	10	subj	f	1
+The baker is talking to the editor about the assignments	f	6	6	10	subj	f	1
+The accountant created a beautiful chair for the clerk because	f	8	8	10	subj	f	1
+The cleaner is waiting for the receptionist because	f	6	6	8	subj	f	1
+The clerk helped the receptionist to fix the engine and	f	4	4	10	subj	f	1
+The counselor asked the writer for help as	f	4	4	8	subj	f	1
+The receptionist wanted to take the cleaner ’s job because	f	6	6	10	subj	f	1
+The receptionist accused the attendant of theft because	f	4	4	8	subj	f	1
+The receptionist meets the mechanic every week because	f	4	4	8	subj	f	1
+The secretary wanted to meet the counselor because	f	6	6	8	subj	f	1
+The editor refused to obey the attendant because	f	6	6	8	subj	f	1
+The tailor provided the teacher with new tools but	f	4	4	9	subj	f	1
+The auditor created a beautiful chair for the accountant because	f	8	8	10	subj	f	1
+The housekeeper waited for the nurse for a while because	f	5	5	10	subj	f	1
+The writer missed the call from the tailor because	f	7	7	9	subj	f	1
+The mechanic meets the mechanic every week because	f	4	4	8	subj	f	1
+The editor is talking to the housekeeper as	f	6	6	8	subj	f	1
+The mechanic is talking to the hairdresser about the thief	f	6	6	10	subj	f	1
+The nurse examined the cleaner for injuries because	f	4	4	8	subj	f	1
+The auditor gave the writer some tips even though	f	4	4	9	subj	f	1
+The auditor gave a free ride to the counselor because	f	8	8	10	subj	f	1
+The teacher gave the nurse a present because	f	4	4	8	subj	f	1
+The editor took down the secretary 's petition and then	f	5	5	10	subj	f	1
+The teacher scanned documents for the receptionist because	f	6	6	8	subj	f	1
+The assistant took down the attendant 's petition and then	f	5	5	10	subj	f	1
+The hairdresser met with the housekeeper so that	f	5	5	8	subj	f	1
+The writer gave a free ride to the attendant because	f	8	8	10	subj	f	1
+The clerk gave the auditor a present because	f	4	4	8	subj	f	1
+The accountant ran faster than the clerk because	f	6	6	8	subj	f	1
+The nurse asked the librarian to be more careful because	f	4	4	10	subj	f	1
+The writer is talking to the writer about the thief	f	6	6	10	subj	f	1
+The baker reminded the cleaner to wear suits because	f	4	4	9	subj	f	1
+The assistant asked the mechanic to pick up papers because	f	4	4	10	subj	f	1
+The tailor asked the mechanic to pick up papers because	f	4	4	10	subj	f	1
+The tailor never drove the nurse anywhere because	f	5	5	8	subj	f	1
+The accountant dug a hole for the auditor because	f	7	7	9	subj	f	1
+The receptionist asked the accountant many questions because	f	4	4	8	subj	f	1
+The auditor admires the work of the writer because	f	7	7	9	subj	f	1
+The accountant agreed to raise the teacher 's salary because	f	6	6	10	subj	f	1
+The tailor had to hire the secretary so that	f	6	6	9	subj	f	1
+The housekeeper cleaned the room for the counselor and	f	7	7	9	subj	f	1
+The nurse was impressed by the cleaner because	f	6	6	8	subj	f	1
+The nurse got mad at the clerk because	f	6	6	8	subj	f	1
+The counselor left the documents with the writer but	f	7	7	9	subj	f	1
+The housekeeper charged the accountant one hundred dollars although	f	4	4	9	subj	f	1
+The teacher had to hire the editor so that	f	6	6	9	subj	f	1
+The attendant was good friends with the tailor because	f	7	7	9	subj	f	1
+The attendant examined the hairdresser for sores because	f	4	4	8	subj	f	1
+The mechanic is talking to the teacher about the assignments	f	6	6	10	subj	f	1
+The baker would constantly make fun of the librarian because	f	8	8	10	subj	f	1
+The mechanic gave the assistant a ride because	f	4	4	8	subj	f	1
+The housekeeper handed the nurse a hammer because	f	4	4	8	subj	f	1
+The tailor sent a report to the receptionist because	f	7	7	9	subj	f	1
+The secretary bought a beer for the librarian because	f	7	7	9	subj	f	1
+The housekeeper gave a ride to the accountant so that	f	7	7	10	subj	f	1
+The mechanic told the secretary to come back tomorrow because	f	4	4	10	subj	f	1
+The teacher made a desk for the counselor because	f	7	7	9	subj	f	1
+The attendant made the cleaner perform remedial study because	f	4	4	9	subj	f	1
+The baker invited the writer to the party because	f	4	4	9	subj	f	1
+The mechanic helped the accountant fix the window quickly as	f	4	4	10	subj	f	1
+The secretary is mad at the auditor because	f	6	6	8	subj	f	1
+The receptionist gave the nurse a present because	f	4	4	8	subj	f	1
+The editor is mad at the editor because	f	6	6	8	subj	f	1
+The attendant had a meeting with the writer so	f	7	7	9	subj	f	1
+The nurse refused to help the secretary as	f	6	6	8	subj	f	1
+The auditor is talking to the writer about the assignments	f	6	6	10	subj	f	1
+The cleaner gave the mechanic a present because	f	4	4	8	subj	f	1
+The librarian helped the counselor to fix the engine and	f	4	4	10	subj	f	1
+The accountant offered apples to the baker , because	f	6	6	9	subj	f	1
+The editor moved the desk for the auditor because	f	7	7	9	subj	f	1
+The attendant took down the counselor 's petition and then	f	5	5	10	subj	f	1
+The editor prepared dinner for the mechanic and	f	6	6	8	subj	f	1
+The housekeeper admires the work of the accountant because	f	7	7	9	subj	f	1
+The mechanic tried to avoid seeing the baker because	f	7	7	9	subj	f	1
+The housekeeper examined the editor for sores because	f	4	4	8	subj	f	1
+The clerk waited for the teacher for a while because	f	5	5	10	subj	f	1
+The accountant showed dissatisfaction with the attendant because	f	6	6	8	subj	f	1
+The receptionist is waiting for the nurse because	f	6	6	8	subj	f	1
+The librarian could not understand the editor because	f	6	6	8	subj	f	1
+The hairdresser examined the nurse for eye problems because	f	4	4	9	subj	f	1
+The mechanic tries to approach the secretary because	f	6	6	8	subj	f	1
+The hairdresser helped the assistant to pack up otherwise	f	4	4	9	subj	f	1
+The clerk tried to avoid seeing the nurse because	f	7	7	9	subj	f	1
+The housekeeper wrote a book about the editor because	f	7	7	9	subj	f	1
+The counselor asked the clerk some questions as	f	4	4	8	subj	f	1
+The teacher waited for the tailor for a while because	f	5	5	10	subj	f	1
+The assistant cleaned the room for the auditor and	f	7	7	9	subj	f	1
+The editor asked the counselor for the books because	f	4	4	9	subj	f	1
+The tailor was angry at the nurse as	f	6	6	8	subj	f	1
+The housekeeper took the accountant on a ride because	f	4	4	9	subj	f	1
+The auditor built a website for the assistant because	f	7	7	9	subj	f	1
+The clerk gave the housekeeper a bag of eggs because	f	4	4	10	subj	f	1
+The nurse received a gift from the writer because	f	7	7	9	subj	f	1
+The mechanic created a beautiful chair for the auditor because	f	8	8	10	subj	f	1
+The nurse wrote a book about the auditor because	f	7	7	9	subj	f	1
+The accountant waited for the editor for a while because	f	5	5	10	subj	f	1
+The mechanic swept up the hairdresser ’s mess because	f	5	5	9	subj	f	1
+The editor was impressed by the editor because	f	6	6	8	subj	f	1
+The clerk has more money than the housekeeper since	f	7	7	9	subj	f	1
+The baker made a desk for the mechanic because	f	7	7	9	subj	f	1
+The librarian suggested the accountant get a new job because	f	4	4	10	subj	f	1
+The teacher agreed to raise the assistant 's salary because	f	6	6	10	subj	f	1
+The mechanic troubles the hairdresser a lot because	f	4	4	8	subj	f	1
+The tailor asked the attendant some questions as	f	4	4	8	subj	f	1
+The mechanic demanded more bread from the cleaner because	f	7	7	9	subj	f	1
+The cleaner was referred to the accountant because	f	6	6	8	subj	f	1
+The counselor suggested the accountant get a new job because	f	4	4	10	subj	f	1
+The hairdresser refused to help the secretary as	f	6	6	8	subj	f	1
+The auditor likes to work with the clerk because	f	7	7	9	subj	f	1
+The assistant made a desk for the secretary because	f	7	7	9	subj	f	1
+The clerk went to the house of the mechanic because	f	8	8	10	subj	f	1
+The secretary asked the baker to go together because	f	4	4	9	subj	f	1
+The editor bought a beer for the librarian because	f	7	7	9	subj	f	1
+The attendant is always teaching the accountant new techniques so	f	6	6	10	subj	f	1
+The librarian is mad at the counselor because	f	6	6	8	subj	f	1
+The clerk gave the attendant a present because	f	4	4	8	subj	f	1
+The writer gave the clerk a present because	f	4	4	8	subj	f	1
+The attendant went to the house of the mechanic because	f	8	8	10	subj	f	1
+The clerk took down the receptionist 's petition and then	f	5	5	10	subj	f	1
+The accountant demanded more bread from the receptionist because	f	7	7	9	subj	f	1
+The baker took the tailor on a ride because	f	4	4	9	subj	f	1
+The attendant admires the work of the writer because	f	7	7	9	subj	f	1
+The nurse is afraid of the receptionist because	f	6	6	8	subj	f	1
+The counselor saved the mechanic from the criminals because	f	4	4	9	subj	f	1
+The accountant cleaned the counselor 's room and	f	4	4	8	subj	f	1
+The baker was rude to the nurse because	f	6	6	8	subj	f	1
+The auditor created a beautiful chair for the accountant because	f	8	8	10	subj	f	1
+The housekeeper made a desk for the hairdresser because	f	7	7	9	subj	f	1
+The housekeeper argued with the hairdresser , because	f	5	5	8	subj	f	1
+The librarian had to hire the secretary so that	f	6	6	9	subj	f	1
+The nurse told the auditor the good news that	f	4	4	9	subj	f	1
+The cleaner got mad at the secretary because	f	6	6	8	subj	f	1
+The teacher received a gift from the clerk because	f	7	7	9	subj	f	1
+The teacher likes the assistant 's product and	f	4	4	8	subj	f	1
+The auditor dug a hole for the nurse because	f	7	7	9	subj	f	1
+The hairdresser made a wood lion for the mechanic because	f	8	8	10	subj	f	1
+The writer does not like the teacher because	f	6	6	8	subj	f	1
+The teacher is mad at the assistant because	f	6	6	8	subj	f	1
+The counselor picked up the hairdresser from the airport after	f	5	5	10	subj	f	1

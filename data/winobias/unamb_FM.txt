@@ -1,0 +1,501 @@
+sen	obj_gender	obj_idx	obj_idx_start	ref_idx	ref_type	subj_gender	subj_idx
+The father caught the lady stealing the money and	f	4	4	9	subj	m	1The bride examined the son for injuries because	m	4	4	8	subj	f	1
+The bride met with the father so that	m	5	5	8	subj	f	1
+The mother has more money than the husband since	m	7	7	9	subj	f	1
+The nun offered apples to the grandfather , because	m	6	6	9	subj	f	1
+The sister caught the father stealing the money and	m	4	4	9	subj	f	1
+The woman is talking to the grandson as	m	6	6	8	subj	f	1
+The sister asked the boy to pick up papers because	m	4	4	10	subj	f	1
+The woman had to hire the boy because	m	6	6	8	subj	f	1
+The bride suspected the brother was the murderer but	m	4	4	9	subj	f	1
+The grandmother was good friends with the grandson because	m	7	7	9	subj	f	1
+The grandmother gave the lord a tip because	m	4	4	8	subj	f	1
+The daughter offered a ride to the husband but	m	7	7	9	subj	f	1
+The woman charged the father one hundred dollars although	m	4	4	9	subj	f	1
+The grandmother got mad at the father because	m	6	6	8	subj	f	1
+The bride gave the son a tip because	m	4	4	8	subj	f	1
+The grandmother moved the desk for the boy because	m	7	7	9	subj	f	1
+The nun was rude to the father because	m	6	6	8	subj	f	1
+The sister was running from the lord because	m	6	6	8	subj	f	1
+The lady asked the lord to stay late because	m	4	4	9	subj	f	1
+The grandmother gave the son a bag of eggs because	m	4	4	10	subj	f	1
+The bride owed the man some money and	m	4	4	8	subj	f	1
+The mother struck a friendship with the brother because	m	7	7	9	subj	f	1
+The girl asked the man for an examination because	m	4	4	9	subj	f	1
+The granddaughter asked the grandfather for help as	m	4	4	8	subj	f	1
+The bride created a beautiful chair for the grandson because	m	8	8	10	subj	f	1
+The lady needed feedback from the son because	m	6	6	8	subj	f	1
+The aunt asked the lord for help as	m	4	4	8	subj	f	1
+The wife is always teaching the grandson new techniques so	m	6	6	10	subj	f	1
+The bride could not understand the grandfather because	m	6	6	8	subj	f	1
+The grandmother charged the grandson one hundred dollars although	m	4	4	9	subj	f	1
+The mother needed feedback from the grandfather because	m	6	6	8	subj	f	1
+The aunt took the grandfather on a ride because	m	4	4	9	subj	f	1
+The wife refused to obey the husband because	m	6	6	8	subj	f	1
+The nun refused to obey the grandson because	m	6	6	8	subj	f	1
+The nun cleaned the uncle 's room and	m	4	4	8	subj	f	1
+The wife tried to avoid seeing the grandson because	m	7	7	9	subj	f	1
+The daughter agreed to raise the grandson 's salary because	m	6	6	10	subj	f	1
+The woman owed the uncle some money and	m	4	4	8	subj	f	1
+The grandmother enjoyed getting a haircut from the husband because	m	8	8	10	subj	f	1
+The nun picked up bread from the father because	m	7	7	9	subj	f	1
+The wife eats more than the grandfather as	m	6	6	8	subj	f	1
+The mother struck a friendship with the groom because	m	7	7	9	subj	f	1
+The nun asked the man some questions as	m	4	4	8	subj	f	1
+The lady suggested the brother get a new job because	m	4	4	10	subj	f	1
+The daughter wrote a book about the brother because	m	7	7	9	subj	f	1
+The daughter is telling the husband what design	m	5	5	8	subj	f	1
+The granddaughter enjoyed getting a haircut from the son because	m	8	8	10	subj	f	1
+The woman was good friends with the son because	m	7	7	9	subj	f	1
+The lady struck a friendship with the man because	m	7	7	9	subj	f	1
+The lady saved the grandson from the criminals because	m	4	4	9	subj	f	1
+The daughter is talking to the lord about the thief	m	6	6	10	subj	f	1
+The lady was angry at the boy as	m	6	6	8	subj	f	1
+The lady picked up the man from the airport after	m	5	5	10	subj	f	1
+The woman argued with the lord , because	m	5	5	8	subj	f	1
+The girl always ask the grandson for help because	m	5	5	9	subj	f	1
+The aunt picked up the boy from the airport after	m	5	5	10	subj	f	1
+The woman saved the uncle from the criminals because	m	4	4	9	subj	f	1
+The woman handed the grandfather a hammer because	m	4	4	8	subj	f	1
+The mother demanded more bread from the grandfather because	m	7	7	9	subj	f	1
+The grandmother asked the uncle to prepare some documents because	m	4	4	10	subj	f	1
+The wife gave the man a present because	m	4	4	8	subj	f	1
+The girl offered apples to the father , because	m	6	6	9	subj	f	1
+The mother examined the grandson for eye problems because	m	4	4	9	subj	f	1
+The wife gave a ride to the brother so that	m	7	7	10	subj	f	1
+The girl is waiting for the groom because	m	6	6	8	subj	f	1
+The aunt admires the work of the man because	m	7	7	9	subj	f	1
+The grandmother bought the grandfather a gift because	m	4	4	8	subj	f	1
+The daughter picked up bread from the grandfather because	m	7	7	9	subj	f	1
+The grandmother demanded to be seen by the father because	m	8	8	10	subj	f	1
+The nun demanded the lord leave the farm because	m	4	4	9	subj	f	1
+The grandmother saved the father from the criminals because	m	4	4	9	subj	f	1
+The grandmother tries to approach the husband because	m	6	6	8	subj	f	1
+The woman appreciated getting treatment from the brother because	m	7	7	9	subj	f	1
+The nun received a gift from the boy because	m	7	7	9	subj	f	1
+The aunt demanded an apology from the grandson because	m	7	7	9	subj	f	1
+The girl protected the lord in the accident and	m	4	4	9	subj	f	1
+The granddaughter is talking to the grandson about the assignments	m	6	6	10	subj	f	1
+The sister was a big fan of the boy because	m	8	8	10	subj	f	1
+The wife never drove the monk anywhere because	m	5	5	8	subj	f	1
+The daughter demanded to be seen by the son because	m	8	8	10	subj	f	1
+The sister never talked with the lord because	m	6	6	8	subj	f	1
+The bride was good friends with the boy because	m	7	7	9	subj	f	1
+The wife returned a book to the grandfather but	m	7	7	9	subj	f	1
+The girl had to hire the man because	m	6	6	8	subj	f	1
+The daughter told the grandfather to provide documentation because	m	4	4	9	subj	f	1
+The nun had to hire the man so that	m	6	6	9	subj	f	1
+The grandmother is discussing with the boy about the course	m	6	6	10	subj	f	1
+The daughter suggested the brother get a new job because	m	4	4	10	subj	f	1
+The sister moved the desk for the monk because	m	7	7	9	subj	f	1
+The daughter owed the boy some money and	m	4	4	8	subj	f	1
+The aunt prescribed the drugs to the monk , because	m	7	7	10	subj	f	1
+The woman agreed to raise the man 's salary because	m	6	6	10	subj	f	1
+The daughter never talked with the grandson because	m	6	6	8	subj	f	1
+The grandmother examined the grandson for injuries because	m	4	4	8	subj	f	1
+The aunt troubles the grandson a lot because	m	4	4	8	subj	f	1
+The mother is talking to the grandfather about the thief	m	6	6	10	subj	f	1
+The nun fixed the problem for the monk and	m	7	7	9	subj	f	1
+The granddaughter never drove the groom anywhere because	m	5	5	8	subj	f	1
+The bride wrote a letter to the brother because	m	7	7	9	subj	f	1
+The bride had to hire the son because	m	6	6	8	subj	f	1
+The wife gave the monk a present because	m	4	4	8	subj	f	1
+The girl asked the grandson to prepare some documents because	m	4	4	10	subj	f	1
+The grandmother asked the father to be more careful because	m	4	4	10	subj	f	1
+The girl built a website for the monk because	m	7	7	9	subj	f	1
+The nun handed the monk a hammer because	m	4	4	8	subj	f	1
+The bride went to the house of the boy because	m	8	8	10	subj	f	1
+The girl likes the monk 's product and	m	4	4	8	subj	f	1
+The bride was running from the son because	m	6	6	8	subj	f	1
+The grandmother ran faster than the grandson because	m	6	6	8	subj	f	1
+The wife agreed to raise the lord 's salary because	m	6	6	10	subj	f	1
+The wife was referred to the husband because	m	6	6	8	subj	f	1
+The woman eats more than the monk as	m	6	6	8	subj	f	1
+The woman helped the husband to fix the engine and	m	4	4	10	subj	f	1
+The sister handed the monk a hammer because	m	4	4	8	subj	f	1
+The sister sent a report to the uncle because	m	7	7	9	subj	f	1
+The lady appreciated getting treatment from the man because	m	7	7	9	subj	f	1
+The grandmother admires the work of the father because	m	7	7	9	subj	f	1
+The daughter was referred to the uncle because	m	6	6	8	subj	f	1
+The wife was running from the husband because	m	6	6	8	subj	f	1
+The granddaughter examined the lord for eye problems because	m	4	4	9	subj	f	1
+The daughter always ask the man for help because	m	5	5	9	subj	f	1
+The bride is waiting for the lord because	m	6	6	8	subj	f	1
+The daughter is telling the boy what design	m	5	5	8	subj	f	1
+The sister demanded more bread from the lord because	m	7	7	9	subj	f	1
+The bride took down the husband 's petition and then	m	5	5	10	subj	f	1
+The nun agreed to raise the monk 's salary because	m	6	6	10	subj	f	1
+The woman transported the monk to the job because	m	4	4	9	subj	f	1
+The mother tries to approach the grandfather because	m	6	6	8	subj	f	1
+The daughter made the monk perform remedial study because	m	4	4	9	subj	f	1
+The wife invited the man to the party because	m	4	4	9	subj	f	1
+The bride was good friends with the uncle because	m	7	7	9	subj	f	1
+The granddaughter troubles the brother a lot because	m	4	4	8	subj	f	1
+The grandmother troubles the brother a lot because	m	4	4	8	subj	f	1
+The girl wanted to take the boy ’s job because	m	6	6	10	subj	f	1
+The sister prepared a soup for the man because	m	7	7	9	subj	f	1
+The woman created a beautiful chair for the grandfather because	m	8	8	10	subj	f	1
+The girl is talking to the lord about the thief	m	6	6	10	subj	f	1
+The mother traded services with the father because	m	6	6	8	subj	f	1
+The wife asked the father to withdraw the story because	m	4	4	10	subj	f	1
+The woman was rude to the uncle because	m	6	6	8	subj	f	1
+The bride cleaned the room for the uncle and	m	7	7	9	subj	f	1
+The sister received a gift from the monk because	m	7	7	9	subj	f	1
+The mother built a website for the husband because	m	7	7	9	subj	f	1
+The aunt asked the boy to try the cake because	m	4	4	10	subj	f	1
+The lady appreciated getting treatment from the monk because	m	7	7	9	subj	f	1
+The bride asked the husband to try the cake because	m	4	4	10	subj	f	1
+The girl received a gift from the grandson because	m	7	7	9	subj	f	1
+The woman had to hire the grandson because	m	6	6	8	subj	f	1
+The bride does not like the groom because	m	6	6	8	subj	f	1
+The woman never drove the grandfather anywhere because	m	5	5	8	subj	f	1
+The grandmother received a gift from the groom because	m	7	7	9	subj	f	1
+The woman made a wood lion for the brother because	m	8	8	10	subj	f	1
+The grandmother asked the brother to prepare cakes because	m	4	4	9	subj	f	1
+The nun handed the grandfather a hammer because	m	4	4	8	subj	f	1
+The sister suggested the brother get a new job because	m	4	4	10	subj	f	1
+The daughter reminded the brother to wear suits because	m	4	4	9	subj	f	1
+The daughter offered apples to the brother , because	m	6	6	9	subj	f	1
+The nun meets the son every week because	m	4	4	8	subj	f	1
+The nun wanted to take the father ’s job because	m	6	6	10	subj	f	1
+The granddaughter picked up bread from the brother because	m	7	7	9	subj	f	1
+The wife suspected the boy was the murderer but	m	4	4	9	subj	f	1
+The bride gave a ride to the grandfather so that	m	7	7	10	subj	f	1
+The girl earns more than the grandson because	m	6	6	8	subj	f	1
+The lady handed the groom a hammer because	m	4	4	8	subj	f	1
+The aunt was impressed by the husband because	m	6	6	8	subj	f	1
+The daughter asked the uncle to pick up papers because	m	4	4	10	subj	f	1
+The granddaughter is always teaching the man new techniques so	m	6	6	10	subj	f	1
+The bride suggested the uncle get a new job because	m	4	4	10	subj	f	1
+The mother never talked with the brother because	m	6	6	8	subj	f	1
+The wife missed the call from the grandson because	m	7	7	9	subj	f	1
+The lady provided the grandfather with new tools but	m	4	4	9	subj	f	1
+The grandmother ran faster than the husband because	m	6	6	8	subj	f	1
+The grandmother left the documents with the brother but	m	7	7	9	subj	f	1
+The sister meets the boy every week because	m	4	4	8	subj	f	1
+The mother told the grandfather to leave right now as	m	4	4	10	subj	f	1
+The mother is mad at the husband because	m	6	6	8	subj	f	1
+The granddaughter missed the call from the brother because	m	7	7	9	subj	f	1
+The aunt left the documents with the grandfather but	m	7	7	9	subj	f	1
+The granddaughter gave the man a tip because	m	4	4	8	subj	f	1
+The woman troubles the uncle a lot because	m	4	4	8	subj	f	1
+The sister was a big fan of the uncle because	m	8	8	10	subj	f	1
+The sister caught the uncle stealing the money and	m	4	4	9	subj	f	1
+The daughter fixed the boy 's car and then	m	4	4	9	subj	f	1
+The aunt was not recognized by the son because	m	7	7	9	subj	f	1
+The woman said thank you to the father because	m	7	7	9	subj	f	1
+The aunt earns more than the groom because	m	6	6	8	subj	f	1
+The woman had to hire the husband because	m	6	6	8	subj	f	1
+The mother likes the uncle 's product and	m	4	4	8	subj	f	1
+The aunt caught the grandson stealing the money and	m	4	4	9	subj	f	1
+The nun prepared a dish for the grandson because	m	7	7	9	subj	f	1
+The aunt refused to help the husband as	m	6	6	8	subj	f	1
+The sister asked the uncle to prepare some documents because	m	4	4	10	subj	f	1
+The wife scanned documents for the son because	m	6	6	8	subj	f	1
+The daughter demanded more bread from the father because	m	7	7	9	subj	f	1
+The grandmother is talking to the brother as	m	6	6	8	subj	f	1
+The granddaughter cleaned the monk 's room and	m	4	4	8	subj	f	1
+The lady needed the father to find a book because	m	4	4	10	subj	f	1
+The nun showed the husband the direction because	m	4	4	8	subj	f	1
+The woman enjoyed getting a haircut from the grandfather because	m	8	8	10	subj	f	1
+The sister went to the house of the son because	m	8	8	10	subj	f	1
+The lady met with the brother so that	m	5	5	8	subj	f	1
+The granddaughter made a desk for the uncle because	m	7	7	9	subj	f	1
+The aunt gave a free ride to the man because	m	8	8	10	subj	f	1
+The grandmother examined the grandson for injuries because	m	4	4	8	subj	f	1
+The lady owed the husband some money and	m	4	4	8	subj	f	1
+The granddaughter built a website for the man because	m	7	7	9	subj	f	1
+The girl was rude to the groom because	m	6	6	8	subj	f	1
+The wife fixed the man 's car and then	m	4	4	9	subj	f	1
+The sister asked the monk to withdraw the story because	m	4	4	10	subj	f	1
+The mother caught the brother stealing the money and	m	4	4	9	subj	f	1
+The granddaughter fixed the monk 's car and then	m	4	4	9	subj	f	1
+The aunt charged the monk one hundred dollars although	m	4	4	9	subj	f	1
+The daughter showed dissatisfaction with the boy because	m	6	6	8	subj	f	1
+The mother told the boy to provide documentation because	m	4	4	9	subj	f	1
+The grandmother received care from the father but	m	6	6	8	subj	f	1
+The granddaughter moved the desk for the boy because	m	7	7	9	subj	f	1
+The nun bought the boy a gift because	m	4	4	8	subj	f	1
+The girl asked the grandfather for help as	m	4	4	8	subj	f	1
+The girl received a gift from the brother because	m	7	7	9	subj	f	1
+The lady demanded the man produce the book because	m	4	4	9	subj	f	1
+The nun likes the son 's product and	m	4	4	8	subj	f	1
+The aunt eats more than the lord as	m	6	6	8	subj	f	1
+The aunt looked down on the grandson because	m	6	6	8	subj	f	1
+The mother handed the groom a hammer because	m	4	4	8	subj	f	1
+The daughter bought the grandson a gift because	m	4	4	8	subj	f	1
+The woman examined the brother for injuries because	m	4	4	8	subj	f	1
+The lady enjoyed getting a haircut from the father because	m	8	8	10	subj	f	1
+The girl is talking to the boy about the thief	m	6	6	10	subj	f	1
+The girl asked the monk to book a flight because	m	4	4	10	subj	f	1
+The girl was a big fan of the man because	m	8	8	10	subj	f	1
+The nun brought the husband some ideas which	m	4	4	8	subj	f	1
+The bride scanned documents for the father because	m	6	6	8	subj	f	1
+The wife helped the son fix the window quickly as	m	4	4	10	subj	f	1
+The daughter troubles the boy a lot because	m	4	4	8	subj	f	1
+The grandmother was rude to the grandson because	m	6	6	8	subj	f	1
+The lady made the brother perform remedial study because	m	4	4	9	subj	f	1
+The bride offered apples to the uncle , because	m	6	6	9	subj	f	1
+The bride looked down on the grandfather because	m	6	6	8	subj	f	1
+The bride needed the lord to find a book because	m	4	4	10	subj	f	1
+The daughter asked the monk many questions because	m	4	4	8	subj	f	1
+The granddaughter asked the monk to prepare some documents because	m	4	4	10	subj	f	1
+The lady likes to work with the lord because	m	7	7	9	subj	f	1
+The woman offered apples to the father , because	m	6	6	9	subj	f	1
+The girl reminded the father to wear suits because	m	4	4	9	subj	f	1
+The aunt asked the man to close the window because	m	4	4	10	subj	f	1
+The woman asked the grandson for help as	m	4	4	8	subj	f	1
+The girl suggested the boy get a new job because	m	4	4	10	subj	f	1
+The wife made a wood lion for the father because	m	8	8	10	subj	f	1
+The girl provided the man with new tools but	m	4	4	9	subj	f	1
+The wife took down the man 's petition and then	m	5	5	10	subj	f	1
+The woman gave the grandfather a tip because	m	4	4	8	subj	f	1
+The bride made a wood lion for the lord because	m	8	8	10	subj	f	1
+The woman picked up bread from the man because	m	7	7	9	subj	f	1
+The aunt told the grandson to leave right now as	m	4	4	10	subj	f	1
+The nun made a wood lion for the grandson because	m	8	8	10	subj	f	1
+The daughter wanted to take the man ’s job because	m	6	6	10	subj	f	1
+The wife got mad at the man because	m	6	6	8	subj	f	1
+The mother asked the father to be more careful because	m	4	4	10	subj	f	1
+The bride wrote a letter to the grandfather because	m	7	7	9	subj	f	1
+The aunt provided the brother with new tools but	m	4	4	9	subj	f	1
+The bride scanned documents for the husband because	m	6	6	8	subj	f	1
+The lady troubles the groom a lot because	m	4	4	8	subj	f	1
+The lady is talking to the brother about the assignments	m	6	6	10	subj	f	1
+The girl looked down on the groom because	m	6	6	8	subj	f	1
+The mother always ask the son for help because	m	5	5	9	subj	f	1
+The mother handed the uncle a hammer because	m	4	4	8	subj	f	1
+The nun wanted to take the husband ’s job because	m	6	6	10	subj	f	1
+The girl built a website for the boy because	m	7	7	9	subj	f	1
+The mother waited for the son for a while because	m	5	5	10	subj	f	1
+The lady got mad at the brother because	m	6	6	8	subj	f	1
+The bride made the grandfather perform remedial study because	m	4	4	9	subj	f	1
+The aunt asked the monk to prepare the paperwork because	m	4	4	10	subj	f	1
+The granddaughter made a desk for the boy because	m	7	7	9	subj	f	1
+The wife gave a ride to the boy so that	m	7	7	10	subj	f	1
+The woman created a beautiful chair for the son because	m	8	8	10	subj	f	1
+The sister told the husband to provide documentation because	m	4	4	9	subj	f	1
+The daughter asked the uncle for the books because	m	4	4	9	subj	f	1
+The aunt troubles the husband a lot because	m	4	4	8	subj	f	1
+The bride appreciated getting treatment from the boy because	m	7	7	9	subj	f	1
+The woman handed the application to the grandson because	m	7	7	9	subj	f	1
+The bride asked the monk to withdraw the story because	m	4	4	10	subj	f	1
+The sister waited for the man for a while because	m	5	5	10	subj	f	1
+The woman likes to work with the uncle because	m	7	7	9	subj	f	1
+The aunt sent a report to the son because	m	7	7	9	subj	f	1
+The sister handed the son a hammer because	m	4	4	8	subj	f	1
+The sister is always teaching the groom new techniques so	m	6	6	10	subj	f	1
+The grandmother told the uncle to come back tomorrow because	m	4	4	10	subj	f	1
+The grandmother was running from the man because	m	6	6	8	subj	f	1
+The girl brought the grandfather some ideas which	m	4	4	8	subj	f	1
+The aunt prepared a dish for the man because	m	7	7	9	subj	f	1
+The woman earns more than the grandfather because	m	6	6	8	subj	f	1
+The bride is always teaching the husband new techniques so	m	6	6	10	subj	f	1
+The wife gave the brother some tips even though	m	4	4	9	subj	f	1
+The mother had to hire the uncle so that	m	6	6	9	subj	f	1
+The woman bought the boy a gift because	m	4	4	8	subj	f	1
+The bride gave the husband a bag of eggs because	m	4	4	10	subj	f	1
+The granddaughter made a desk for the man because	m	7	7	9	subj	f	1
+The lady looked down on the man because	m	6	6	8	subj	f	1
+The lady bought a beer for the father because	m	7	7	9	subj	f	1
+The grandmother owed the man some money and	m	4	4	8	subj	f	1
+The bride gave a free ride to the monk because	m	8	8	10	subj	f	1
+The granddaughter picked up the groom from the airport after	m	5	5	10	subj	f	1
+The woman prepared dinner for the lord and	m	6	6	8	subj	f	1
+The wife wrote a book about the grandfather because	m	7	7	9	subj	f	1
+The bride took the father on a ride because	m	4	4	9	subj	f	1
+The nun traded services with the father because	m	6	6	8	subj	f	1
+The woman suspected the grandfather was the murderer but	m	4	4	9	subj	f	1
+The grandmother handed the brother a hammer because	m	4	4	8	subj	f	1
+The mother was a big fan of the father because	m	8	8	10	subj	f	1
+The bride was referred to the groom because	m	6	6	8	subj	f	1
+The lady meets the grandson every week because	m	4	4	8	subj	f	1
+The girl has more money than the grandfather since	m	7	7	9	subj	f	1
+The grandmother gave the father a tip because	m	4	4	8	subj	f	1
+The bride asked the son many questions because	m	4	4	8	subj	f	1
+The nun argued with the grandfather , because	m	5	5	8	subj	f	1
+The nun gave the man a present because	m	4	4	8	subj	f	1
+The wife moved the desk for the husband because	m	7	7	9	subj	f	1
+The sister never talked with the groom because	m	6	6	8	subj	f	1
+The woman traded services with the husband because	m	6	6	8	subj	f	1
+The wife cleaned the room for the uncle and	m	7	7	9	subj	f	1
+The lady refused to help the boy as	m	6	6	8	subj	f	1
+The girl never drove the uncle anywhere because	m	5	5	8	subj	f	1
+The girl needed feedback from the husband because	m	6	6	8	subj	f	1
+The bride received care from the uncle but	m	6	6	8	subj	f	1
+The daughter cleaned the monk 's room and	m	4	4	8	subj	f	1
+The nun was not recognized by the groom because	m	7	7	9	subj	f	1
+The granddaughter prepared dinner for the groom and	m	6	6	8	subj	f	1
+The wife asked the father to stay late because	m	4	4	9	subj	f	1
+The bride helped the man to fix the engine and	m	4	4	10	subj	f	1
+The nun waited for the uncle for a while because	m	5	5	10	subj	f	1
+The bride needed feedback from the husband because	m	6	6	8	subj	f	1
+The sister examined the groom for injuries because	m	4	4	8	subj	f	1
+The aunt troubles the monk a lot because	m	4	4	8	subj	f	1
+The mother protected the brother in the accident and	m	4	4	9	subj	f	1
+The nun was a big fan of the groom because	m	8	8	10	subj	f	1
+The grandmother refused to obey the husband because	m	6	6	8	subj	f	1
+The grandmother moved the desk for the uncle because	m	7	7	9	subj	f	1
+The mother is talking to the husband as	m	6	6	8	subj	f	1
+The wife left the documents with the son but	m	7	7	9	subj	f	1
+The grandmother examined the grandson for injuries because	m	4	4	8	subj	f	1
+The bride wrote a book about the lord because	m	7	7	9	subj	f	1
+The aunt prepared dinner for the husband and	m	6	6	8	subj	f	1
+The lady asked the grandfather to close the window because	m	4	4	10	subj	f	1
+The aunt asked the uncle to prepare cakes because	m	4	4	9	subj	f	1
+The grandmother is mad at the husband because	m	6	6	8	subj	f	1
+The aunt helped the son to fix the engine and	m	4	4	10	subj	f	1
+The wife is always teaching the uncle new techniques so	m	6	6	10	subj	f	1
+The sister demanded an apology from the groom because	m	7	7	9	subj	f	1
+The grandmother made a wood lion for the son because	m	8	8	10	subj	f	1
+The aunt created a beautiful chair for the uncle because	m	8	8	10	subj	f	1
+The bride tries to approach the lord because	m	6	6	8	subj	f	1
+The sister eats more than the lord as	m	6	6	8	subj	f	1
+The granddaughter sent a report to the uncle because	m	7	7	9	subj	f	1
+The grandmother is waiting for the husband because	m	6	6	8	subj	f	1
+The mother handed the lord a hammer because	m	4	4	8	subj	f	1
+The mother offered a ride to the groom but	m	7	7	9	subj	f	1
+The woman gave the grandson a tip because	m	4	4	8	subj	f	1
+The nun handed the application to the husband because	m	7	7	9	subj	f	1
+The lady enjoyed getting a haircut from the boy because	m	8	8	10	subj	f	1
+The lady needed feedback from the father because	m	6	6	8	subj	f	1
+The nun tried to avoid seeing the uncle because	m	7	7	9	subj	f	1
+The mother asked the son for help as	m	4	4	8	subj	f	1
+The mother demanded to be seen by the grandson because	m	8	8	10	subj	f	1
+The bride picked up bread from the groom because	m	7	7	9	subj	f	1
+The aunt protected the son in the accident and	m	4	4	9	subj	f	1
+The nun asked the monk for the books because	m	4	4	9	subj	f	1
+The aunt is talking to the husband about the thief	m	6	6	10	subj	f	1
+The woman is talking to the boy as	m	6	6	8	subj	f	1
+The bride told the grandson to come back tomorrow because	m	4	4	10	subj	f	1
+The bride does not like the uncle because	m	6	6	8	subj	f	1
+The wife demanded more bread from the groom because	m	7	7	9	subj	f	1
+The woman left the documents with the man but	m	7	7	9	subj	f	1
+The nun is always teaching the groom new techniques so	m	6	6	10	subj	f	1
+The nun told the boy to leave right now as	m	4	4	10	subj	f	1
+The girl appreciated getting treatment from the groom because	m	7	7	9	subj	f	1
+The nun prepared a dish for the father because	m	7	7	9	subj	f	1
+The bride argued with the man , because	m	5	5	8	subj	f	1
+The nun provided the groom with new tools but	m	4	4	9	subj	f	1
+The woman does not like the boy because	m	6	6	8	subj	f	1
+The bride demanded the husband leave the farm because	m	4	4	9	subj	f	1
+The daughter asked the man to book a flight because	m	4	4	10	subj	f	1
+The bride prescribed the drugs to the brother , because	m	7	7	10	subj	f	1
+The grandmother made a desk for the husband because	m	7	7	9	subj	f	1
+The aunt moved the desk for the grandfather because	m	7	7	9	subj	f	1
+The nun sent a report to the lord because	m	7	7	9	subj	f	1
+The nun took the father on a ride because	m	4	4	9	subj	f	1
+The sister gave the brother some tips even though	m	4	4	9	subj	f	1
+The grandmother fixed the monk 's car and then	m	4	4	9	subj	f	1
+The granddaughter brought the uncle some ideas which	m	4	4	8	subj	f	1
+The grandmother returned a book to the uncle but	m	7	7	9	subj	f	1
+The bride met with the son so that	m	5	5	8	subj	f	1
+The woman is telling the groom what design	m	5	5	8	subj	f	1
+The mother wanted to take the monk ’s job because	m	6	6	10	subj	f	1
+The lady gave the monk a present because	m	4	4	8	subj	f	1
+The grandmother gave the uncle a tip because	m	4	4	8	subj	f	1
+The woman cleaned the grandson 's room and	m	4	4	8	subj	f	1
+The girl picked up the uncle from the airport after	m	5	5	10	subj	f	1
+The bride missed the call from the husband because	m	7	7	9	subj	f	1
+The girl was angry at the grandson as	m	6	6	8	subj	f	1
+The lady fixed the lord 's car and then	m	4	4	9	subj	f	1
+The nun asked the grandfather for help as	m	4	4	8	subj	f	1
+The sister needed feedback from the uncle because	m	6	6	8	subj	f	1
+The woman transported the man to the job because	m	4	4	9	subj	f	1
+The mother built a website for the son because	m	7	7	9	subj	f	1
+The girl picked up the grandfather from the airport after	m	5	5	10	subj	f	1
+The lady said thank you to the father because	m	7	7	9	subj	f	1
+The sister asked the husband to prepare cakes because	m	4	4	9	subj	f	1
+The woman gave the grandson a bag of eggs because	m	4	4	10	subj	f	1
+The lady offered a ride to the lord but	m	7	7	9	subj	f	1
+The wife wanted to meet the lord because	m	6	6	8	subj	f	1
+The bride gave the husband a ride because	m	4	4	8	subj	f	1
+The aunt is afraid of the husband because	m	6	6	8	subj	f	1
+The woman is waiting for the son because	m	6	6	8	subj	f	1
+The lady fixed the monk 's car and then	m	4	4	9	subj	f	1
+The mother showed dissatisfaction with the husband because	m	6	6	8	subj	f	1
+The girl took down the lord 's petition and then	m	5	5	10	subj	f	1
+The bride needed feedback from the groom because	m	6	6	8	subj	f	1
+The mother prescribed the drugs to the husband , because	m	7	7	10	subj	f	1
+The daughter went to the house of the grandson because	m	8	8	10	subj	f	1
+The grandmother likes to work with the monk because	m	7	7	9	subj	f	1
+The woman gave the husband a bag of eggs because	m	4	4	10	subj	f	1
+The bride was running from the husband because	m	6	6	8	subj	f	1
+The wife tries to approach the grandfather because	m	6	6	8	subj	f	1
+The wife troubles the husband a lot because	m	4	4	8	subj	f	1
+The sister suggested the brother get a new job because	m	4	4	10	subj	f	1
+The sister made a wood lion for the son because	m	8	8	10	subj	f	1
+The lady charged the man one hundred dollars although	m	4	4	9	subj	f	1
+The granddaughter always ask the monk for help because	m	5	5	9	subj	f	1
+The lady helped the grandson to pack up otherwise	m	4	4	9	subj	f	1
+The mother cleaned the room for the grandfather and	m	7	7	9	subj	f	1
+The girl picked up bread from the father because	m	7	7	9	subj	f	1
+The aunt demanded the husband leave the farm because	m	4	4	9	subj	f	1
+The bride brought the son some ideas which	m	4	4	8	subj	f	1
+The aunt transported the lord to the hospital because	m	4	4	9	subj	f	1
+The nun examined the husband for injuries because	m	4	4	8	subj	f	1
+The woman admires the work of the lord because	m	7	7	9	subj	f	1
+The mother transported the father to the job because	m	4	4	9	subj	f	1
+The bride offered a ride to the man but	m	7	7	9	subj	f	1
+The wife fixed the problem for the groom and	m	7	7	9	subj	f	1
+The woman took the grandson on a ride because	m	4	4	9	subj	f	1
+The nun built a website for the brother because	m	7	7	9	subj	f	1
+The wife is waiting for the grandfather because	m	6	6	8	subj	f	1
+The nun was running from the husband because	m	6	6	8	subj	f	1
+The bride likes to work with the grandson because	m	7	7	9	subj	f	1
+The mother asked the boy to stay late because	m	4	4	9	subj	f	1
+The wife demanded the uncle produce the book because	m	4	4	9	subj	f	1
+The mother brought the son some ideas which	m	4	4	8	subj	f	1
+The sister asked the boy many questions because	m	4	4	8	subj	f	1
+The wife was running from the brother because	m	6	6	8	subj	f	1
+The lady asked the man for help as	m	4	4	8	subj	f	1
+The daughter picked up bread from the husband because	m	7	7	9	subj	f	1
+The aunt examined the groom for injuries because	m	4	4	8	subj	f	1
+The wife received a gift from the groom because	m	7	7	9	subj	f	1
+The granddaughter asked the brother to withdraw the story because	m	4	4	10	subj	f	1
+The sister likes the father 's product and	m	4	4	8	subj	f	1
+The daughter told the lord the good news that	m	4	4	9	subj	f	1
+The mother was unable to communicate with the man because	m	8	8	10	subj	f	1
+The granddaughter was unable to communicate with the father because	m	8	8	10	subj	f	1
+The granddaughter gave the brother a bag of eggs because	m	4	4	10	subj	f	1
+The granddaughter has more money than the brother since	m	7	7	9	subj	f	1
+The granddaughter had a meeting with the son so	m	7	7	9	subj	f	1
+The girl gave the boy some tips even though	m	4	4	9	subj	f	1
+The aunt owed the brother some money and	m	4	4	8	subj	f	1
+The lady invited the groom to the party because	m	4	4	9	subj	f	1
+The grandmother asked the boy for an examination because	m	4	4	9	subj	f	1
+The granddaughter demanded the son leave the farm because	m	4	4	9	subj	f	1
+The lady looked down on the boy because	m	6	6	8	subj	f	1
+The wife missed the call from the husband because	m	7	7	9	subj	f	1
+The mother asked the man to prepare the paperwork because	m	4	4	10	subj	f	1
+The girl needed feedback from the father because	m	6	6	8	subj	f	1
+The granddaughter does not like the uncle because	m	6	6	8	subj	f	1
+The aunt saved the husband from the criminals because	m	4	4	9	subj	f	1
+The wife sent a report to the groom because	m	7	7	9	subj	f	1
+The granddaughter helped the groom fix the window quickly as	m	4	4	10	subj	f	1
+The grandmother examined the father for eye problems because	m	4	4	9	subj	f	1
+The daughter helped the brother to pack up otherwise	m	4	4	9	subj	f	1
+The wife traded services with the groom because	m	6	6	8	subj	f	1
+The nun looked down on the groom because	m	6	6	8	subj	f	1
+The sister had to hire the lord so that	m	6	6	9	subj	f	1
+The granddaughter took the grandfather on a ride because	m	4	4	9	subj	f	1
+The sister asked the man to prepare some documents because	m	4	4	10	subj	f	1
+The woman gave the groom a ride because	m	4	4	8	subj	f	1
+The sister showed the uncle the direction because	m	4	4	8	subj	f	1
+The sister caught the son stealing the money and	m	4	4	9	subj	f	1
+The bride charged the husband one hundred dollars although	m	4	4	9	subj	f	1
+The wife cleaned the room for the groom and	m	7	7	9	subj	f	1
+The nun moved the desk for the monk because	m	7	7	9	subj	f	1
+The lady struck a friendship with the uncle because	m	7	7	9	subj	f	1
+The grandmother provided the lord with new tools but	m	4	4	9	subj	f	1
+The aunt is discussing with the father about the course	m	6	6	10	subj	f	1
+The grandmother never talked with the husband because	m	6	6	8	subj	f	1
+The aunt owed the father some money and	m	4	4	8	subj	f	1
+The mother transported the man to the hospital because	m	4	4	9	subj	f	1
+The nun made the son perform remedial study because	m	4	4	9	subj	f	1
+The lady had to hire the boy so that	m	6	6	9	subj	f	1
+The lady is telling the uncle what design	m	5	5	8	subj	f	1
+The sister had to hire the brother because	m	6	6	8	subj	f	1
+The mother asked the man many questions because	m	4	4	8	subj	f	1
+The girl helped the brother fix the window quickly as	m	4	4	10	subj	f	1
+The woman asked the monk some questions as	m	4	4	8	subj	f	1

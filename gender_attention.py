@@ -19,7 +19,7 @@ from diagnnose.typedefs.corpus import Corpus
 from diagnnose.utils.midpoint import MidPointNorm
 from diagnnose.vocab import get_vocab_from_config
 
-TMP_DIR = "tmp"
+TMP_DIR = "winobias_activations"
 plt.rcParams["figure.figsize"] = 8, 8
 
 

@@ -1,0 +1,501 @@
+sen	obj_gender	obj_idx	obj_idx_start	ref_idx	ref_type	subj_gender	subj_idx
+The woman never drove the bride anywhere because	f	5	5	8	subj	f	1
+The sister swept up the girl ’s mess because	f	5	5	9	subj	f	1
+The nun was a big fan of the woman because	f	8	8	10	subj	f	1
+The grandmother could not understand the sister because	f	6	6	8	subj	f	1
+The granddaughter demanded to be seen by the nun because	f	8	8	10	subj	f	1
+The girl prescribed the drugs to the aunt , because	f	7	7	10	subj	f	1
+The granddaughter helped the grandmother to fix the engine and	f	4	4	10	subj	f	1
+The aunt is always teaching the woman new techniques so	f	6	6	10	subj	f	1
+The lady helped the wife to fix the engine and	f	4	4	10	subj	f	1
+The sister is always teaching the grandmother new techniques so	f	6	6	10	subj	f	1
+The bride asked the mother to try the cake because	f	4	4	10	subj	f	1
+The grandmother helped the nun fix the window quickly as	f	4	4	10	subj	f	1
+The mother bought a beer for the lady because	f	7	7	9	subj	f	1
+The bride prepared a soup for the mother because	f	7	7	9	subj	f	1
+The bride prepared a dish for the nun because	f	7	7	9	subj	f	1
+The daughter would constantly make fun of the girl because	f	8	8	10	subj	f	1
+The sister was rude to the bride because	f	6	6	8	subj	f	1
+The sister eats more than the woman as	f	6	6	8	subj	f	1
+The aunt eats more than the sister as	f	6	6	8	subj	f	1
+The grandmother wrote a book about the lady because	f	7	7	9	subj	f	1
+The girl helped the lady fix the window quickly as	f	4	4	10	subj	f	1
+The daughter refused to help the daughter as	f	6	6	8	subj	f	1
+The aunt was friendly with the nun so that	f	6	6	9	subj	f	1
+The granddaughter agreed to raise the grandmother 's salary because	f	6	6	10	subj	f	1
+The lady bought a beer for the nun because	f	7	7	9	subj	f	1
+The granddaughter said thank you to the aunt because	f	7	7	9	subj	f	1
+The wife gave a ride to the nun so that	f	7	7	10	subj	f	1
+The nun asked the daughter to book a flight because	f	4	4	10	subj	f	1
+The grandmother had to hire the mother because	f	6	6	8	subj	f	1
+The girl was friendly with the lady so that	f	6	6	9	subj	f	1
+The mother left the documents with the lady but	f	7	7	9	subj	f	1
+The bride is talking to the sister about the assignments	f	6	6	10	subj	f	1
+The lady needed feedback from the girl because	f	6	6	8	subj	f	1
+The granddaughter likes the wife 's product and	f	4	4	8	subj	f	1
+The aunt demanded to be seen by the wife because	f	8	8	10	subj	f	1
+The nun picked up the mother from the airport after	f	5	5	10	subj	f	1
+The sister took down the mother 's petition and then	f	5	5	10	subj	f	1
+The daughter examined the wife for sores because	f	4	4	8	subj	f	1
+The nun told the sister to leave right now as	f	4	4	10	subj	f	1
+The granddaughter tried to avoid seeing the bride because	f	7	7	9	subj	f	1
+The lady fixed the wife 's car and then	f	4	4	9	subj	f	1
+The wife made a desk for the daughter because	f	7	7	9	subj	f	1
+The aunt owed the granddaughter some money and	f	4	4	8	subj	f	1
+The mother helped the mother to fix the engine and	f	4	4	10	subj	f	1
+The wife transported the daughter to the hospital because	f	4	4	9	subj	f	1
+The nun fixed the problem for the sister and	f	7	7	9	subj	f	1
+The mother always ask the aunt for help because	f	5	5	9	subj	f	1
+The woman helped the sister to fix the engine and	f	4	4	10	subj	f	1
+The nun accused the grandmother of theft because	f	4	4	8	subj	f	1
+The grandmother gave the lady a tip because	f	4	4	8	subj	f	1
+The sister asked the wife to pick up papers because	f	4	4	10	subj	f	1
+The girl received care from the girl but	f	6	6	8	subj	f	1
+The granddaughter bought a beer for the mother because	f	7	7	9	subj	f	1
+The bride prepared a soup for the granddaughter because	f	7	7	9	subj	f	1
+The woman swept up the granddaughter ’s mess because	f	5	5	9	subj	f	1
+The granddaughter was referred to the sister because	f	6	6	8	subj	f	1
+The lady is waiting for the mother because	f	6	6	8	subj	f	1
+The aunt admires the work of the sister because	f	7	7	9	subj	f	1
+The sister looked down on the wife because	f	6	6	8	subj	f	1
+The sister handed the daughter a hammer because	f	4	4	8	subj	f	1
+The grandmother never drove the girl anywhere because	f	5	5	8	subj	f	1
+The grandmother asked the woman to prepare the paperwork because	f	4	4	10	subj	f	1
+The lady gave a free ride to the bride because	f	8	8	10	subj	f	1
+The mother has more money than the lady since	f	7	7	9	subj	f	1
+The nun wrote a book about the bride because	f	7	7	9	subj	f	1
+The lady helped the mother to pack up otherwise	f	4	4	9	subj	f	1
+The aunt traded services with the aunt because	f	6	6	8	subj	f	1
+The daughter had to hire the wife so that	f	6	6	9	subj	f	1
+The aunt struck a friendship with the bride because	f	7	7	9	subj	f	1
+The grandmother built a website for the bride because	f	7	7	9	subj	f	1
+The girl returned a book to the mother but	f	7	7	9	subj	f	1
+The nun refused to help the wife as	f	6	6	8	subj	f	1
+The grandmother does not like the nun because	f	6	6	8	subj	f	1
+The bride struck a friendship with the woman because	f	7	7	9	subj	f	1
+The sister gave a ride to the bride so that	f	7	7	10	subj	f	1
+The granddaughter was not recognized by the granddaughter because	f	7	7	9	subj	f	1
+The woman built a website for the granddaughter because	f	7	7	9	subj	f	1
+The lady meets the sister every week because	f	4	4	8	subj	f	1
+The nun struck a friendship with the daughter because	f	7	7	9	subj	f	1
+The lady traded services with the sister because	f	6	6	8	subj	f	1
+The bride helped the nun to fix the engine and	f	4	4	10	subj	f	1
+The wife helped the wife to fix the engine and	f	4	4	10	subj	f	1
+The nun charged the granddaughter one hundred dollars although	f	4	4	9	subj	f	1
+The daughter brought the aunt some ideas which	f	4	4	8	subj	f	1
+The daughter said thank you to the sister because	f	7	7	9	subj	f	1
+The granddaughter never talked with the grandmother because	f	6	6	8	subj	f	1
+The nun demanded an apology from the woman because	f	7	7	9	subj	f	1
+The woman demanded an apology from the bride because	f	7	7	9	subj	f	1
+The bride demanded more bread from the bride because	f	7	7	9	subj	f	1
+The girl ran faster than the woman because	f	6	6	8	subj	f	1
+The granddaughter asked the aunt for an examination because	f	4	4	9	subj	f	1
+The wife picked up bread from the woman because	f	7	7	9	subj	f	1
+The sister was friendly with the lady so that	f	6	6	9	subj	f	1
+The bride charged the lady one hundred dollars although	f	4	4	9	subj	f	1
+The grandmother missed the call from the woman because	f	7	7	9	subj	f	1
+The woman fixed the nun 's car and then	f	4	4	9	subj	f	1
+The bride prepared a soup for the woman because	f	7	7	9	subj	f	1
+The sister needed the grandmother to find a book because	f	4	4	10	subj	f	1
+The wife examined the woman for eye problems because	f	4	4	9	subj	f	1
+The woman is talking to the mother about the assignments	f	6	6	10	subj	f	1
+The girl is talking to the granddaughter about the assignments	f	6	6	10	subj	f	1
+The granddaughter asked the girl to prepare the paperwork because	f	4	4	10	subj	f	1
+The woman asked the grandmother to be more careful because	f	4	4	10	subj	f	1
+The grandmother asked the granddaughter for the books because	f	4	4	9	subj	f	1
+The girl needed feedback from the woman because	f	6	6	8	subj	f	1
+The mother returned a book to the nun but	f	7	7	9	subj	f	1
+The mother was not recognized by the woman because	f	7	7	9	subj	f	1
+The lady provided the grandmother with new tools but	f	4	4	9	subj	f	1
+The lady agreed to raise the grandmother 's salary because	f	6	6	10	subj	f	1
+The lady is afraid of the mother because	f	6	6	8	subj	f	1
+The woman gave a ride to the aunt so that	f	7	7	10	subj	f	1
+The bride was rude to the mother because	f	6	6	8	subj	f	1
+The aunt gave the daughter a ride because	f	4	4	8	subj	f	1
+The wife would constantly make fun of the daughter because	f	8	8	10	subj	f	1
+The aunt was referred to the woman because	f	6	6	8	subj	f	1
+The woman bought the lady a gift because	f	4	4	8	subj	f	1
+The lady transported the wife to the job because	f	4	4	9	subj	f	1
+The woman admires the work of the daughter because	f	7	7	9	subj	f	1
+The bride asked the girl to book a flight because	f	4	4	10	subj	f	1
+The mother is discussing with the bride about the course	f	6	6	10	subj	f	1
+The lady offered apples to the mother , because	f	6	6	9	subj	f	1
+The granddaughter troubles the girl a lot because	f	4	4	8	subj	f	1
+The girl dug a hole for the lady because	f	7	7	9	subj	f	1
+The aunt demanded to be seen by the daughter because	f	8	8	10	subj	f	1
+The mother asked the granddaughter to stay late because	f	4	4	9	subj	f	1
+The sister admires the work of the granddaughter because	f	7	7	9	subj	f	1
+The aunt is mad at the aunt because	f	6	6	8	subj	f	1
+The grandmother asked the girl to be more careful because	f	4	4	10	subj	f	1
+The aunt returned a book to the mother but	f	7	7	9	subj	f	1
+The woman likes the lady 's product and	f	4	4	8	subj	f	1
+The woman asked the bride to go together because	f	4	4	9	subj	f	1
+The girl was angry at the wife as	f	6	6	8	subj	f	1
+The mother does not like the nun because	f	6	6	8	subj	f	1
+The bride picked up bread from the nun because	f	7	7	9	subj	f	1
+The mother had a meeting with the lady so	f	7	7	9	subj	f	1
+The girl demanded the aunt produce the book because	f	4	4	9	subj	f	1
+The grandmother invited the aunt to the party because	f	4	4	9	subj	f	1
+The nun never talked with the aunt because	f	6	6	8	subj	f	1
+The nun took down the bride 's petition and then	f	5	5	10	subj	f	1
+The daughter gave a ride to the aunt so that	f	7	7	10	subj	f	1
+The nun got mad at the mother because	f	6	6	8	subj	f	1
+The aunt likes to work with the granddaughter because	f	7	7	9	subj	f	1
+The sister was impressed by the grandmother because	f	6	6	8	subj	f	1
+The grandmother could not understand the woman because	f	6	6	8	subj	f	1
+The sister was not recognized by the lady because	f	7	7	9	subj	f	1
+The grandmother gave the daughter a ride because	f	4	4	8	subj	f	1
+The woman got mad at the girl because	f	6	6	8	subj	f	1
+The girl asked the granddaughter for the books because	f	4	4	9	subj	f	1
+The lady transported the wife to the hospital because	f	4	4	9	subj	f	1
+The lady reminded the granddaughter to wear suits because	f	4	4	9	subj	f	1
+The mother offered to help the daughter because	f	6	6	8	subj	f	1
+The woman admires the work of the bride because	f	7	7	9	subj	f	1
+The granddaughter asked the lady many questions because	f	4	4	8	subj	f	1
+The woman appreciated getting treatment from the grandmother because	f	7	7	9	subj	f	1
+The daughter made the aunt perform remedial study because	f	4	4	9	subj	f	1
+The mother was rude to the sister because	f	6	6	8	subj	f	1
+The lady left the documents with the nun but	f	7	7	9	subj	f	1
+The nun traded services with the aunt because	f	6	6	8	subj	f	1
+The aunt would constantly make fun of the daughter because	f	8	8	10	subj	f	1
+The bride asked the granddaughter to pick up papers because	f	4	4	10	subj	f	1
+The lady was rude to the wife because	f	6	6	8	subj	f	1
+The woman told the granddaughter to provide documentation because	f	4	4	9	subj	f	1
+The woman was not recognized by the lady because	f	7	7	9	subj	f	1
+The wife took down the mother 's petition and then	f	5	5	10	subj	f	1
+The wife always ask the woman for help because	f	5	5	9	subj	f	1
+The wife charged the daughter one hundred dollars although	f	4	4	9	subj	f	1
+The grandmother was rude to the mother because	f	6	6	8	subj	f	1
+The grandmother needed the bride to find a book because	f	4	4	10	subj	f	1
+The wife refused to help the wife as	f	6	6	8	subj	f	1
+The sister is talking to the lady about the assignments	f	6	6	10	subj	f	1
+The daughter struck a friendship with the bride because	f	7	7	9	subj	f	1
+The bride made a desk for the bride because	f	7	7	9	subj	f	1
+The aunt provided the lady with new tools but	f	4	4	9	subj	f	1
+The sister never drove the wife anywhere because	f	5	5	8	subj	f	1
+The wife tried to avoid seeing the aunt because	f	7	7	9	subj	f	1
+The wife prepared dinner for the wife and	f	6	6	8	subj	f	1
+The daughter wrote a letter to the aunt because	f	7	7	9	subj	f	1
+The girl asked the granddaughter to be more careful because	f	4	4	10	subj	f	1
+The lady ran faster than the nun because	f	6	6	8	subj	f	1
+The bride is talking to the granddaughter about the assignments	f	6	6	10	subj	f	1
+The aunt reminded the lady to wear suits because	f	4	4	9	subj	f	1
+The lady examined the lady for eye problems because	f	4	4	9	subj	f	1
+The nun fixed the wife 's car and then	f	4	4	9	subj	f	1
+The daughter eats more than the granddaughter as	f	6	6	8	subj	f	1
+The woman helped the mother to fix the engine and	f	4	4	10	subj	f	1
+The bride took down the lady 's petition and then	f	5	5	10	subj	f	1
+The girl moved the desk for the girl because	f	7	7	9	subj	f	1
+The girl is afraid of the mother because	f	6	6	8	subj	f	1
+The nun suspected the girl was the murderer but	f	4	4	9	subj	f	1
+The girl gave the daughter a bag of eggs because	f	4	4	10	subj	f	1
+The lady examined the aunt for eye problems because	f	4	4	9	subj	f	1
+The sister asked the nun to pick up papers because	f	4	4	10	subj	f	1
+The aunt handed the application to the mother because	f	7	7	9	subj	f	1
+The lady bought the lady a gift because	f	4	4	8	subj	f	1
+The daughter brought the grandmother some ideas which	f	4	4	8	subj	f	1
+The grandmother argued with the daughter , because	f	5	5	8	subj	f	1
+The aunt transported the grandmother to the hospital because	f	4	4	9	subj	f	1
+The woman had to hire the lady so that	f	6	6	9	subj	f	1
+The grandmother helped the lady to pack up otherwise	f	4	4	9	subj	f	1
+The sister fixed the aunt 's car and then	f	4	4	9	subj	f	1
+The granddaughter suggested the granddaughter get a new job because	f	4	4	10	subj	f	1
+The daughter handed the nun a hammer because	f	4	4	8	subj	f	1
+The wife asked the grandmother to be more careful because	f	4	4	10	subj	f	1
+The wife cleaned the room for the wife and	f	7	7	9	subj	f	1
+The nun always ask the lady for help because	f	5	5	9	subj	f	1
+The granddaughter tries to approach the sister because	f	6	6	8	subj	f	1
+The aunt tries to approach the girl because	f	6	6	8	subj	f	1
+The mother got mad at the granddaughter because	f	6	6	8	subj	f	1
+The woman was rude to the aunt because	f	6	6	8	subj	f	1
+The sister asked the sister to prepare cakes because	f	4	4	9	subj	f	1
+The lady likes the daughter 's product and	f	4	4	8	subj	f	1
+The aunt wanted to meet the mother because	f	6	6	8	subj	f	1
+The wife invited the bride to the party because	f	4	4	9	subj	f	1
+The woman suggested the wife get a new job because	f	4	4	10	subj	f	1
+The woman gave the granddaughter a ride because	f	4	4	8	subj	f	1
+The daughter scanned documents for the sister because	f	6	6	8	subj	f	1
+The grandmother demanded an apology from the lady because	f	7	7	9	subj	f	1
+The wife gave a free ride to the nun because	f	8	8	10	subj	f	1
+The lady is talking to the girl as	f	6	6	8	subj	f	1
+The bride asked the wife to prepare some documents because	f	4	4	10	subj	f	1
+The bride prescribed the drugs to the wife , because	f	7	7	10	subj	f	1
+The lady asked the sister some questions as	f	4	4	8	subj	f	1
+The mother returned a book to the sister but	f	7	7	9	subj	f	1
+The woman demanded the grandmother leave the farm because	f	4	4	9	subj	f	1
+The sister took down the daughter 's petition and then	f	5	5	10	subj	f	1
+The nun asked the girl to pick up papers because	f	4	4	10	subj	f	1
+The girl went to the house of the grandmother because	f	8	8	10	subj	f	1
+The lady could not understand the woman because	f	6	6	8	subj	f	1
+The aunt asked the aunt to close the window because	f	4	4	10	subj	f	1
+The nun sent a report to the bride because	f	7	7	9	subj	f	1
+The wife received care from the aunt but	f	6	6	8	subj	f	1
+The aunt asked the nun for the books because	f	4	4	9	subj	f	1
+The wife examined the mother for eye problems because	f	4	4	9	subj	f	1
+The daughter examined the aunt for sores because	f	4	4	8	subj	f	1
+The woman met with the grandmother so that	f	5	5	8	subj	f	1
+The girl enjoyed getting a haircut from the daughter because	f	8	8	10	subj	f	1
+The daughter enjoyed getting a haircut from the wife because	f	8	8	10	subj	f	1
+The girl transported the daughter to the hospital because	f	4	4	9	subj	f	1
+The girl likes to work with the daughter because	f	7	7	9	subj	f	1
+The bride asked the sister to prepare some documents because	f	4	4	10	subj	f	1
+The sister picked up the sister from the airport after	f	5	5	10	subj	f	1
+The grandmother asked the daughter to go together because	f	4	4	9	subj	f	1
+The sister gave the nun some tips even though	f	4	4	9	subj	f	1
+The bride looked down on the woman because	f	6	6	8	subj	f	1
+The mother wanted to take the lady ’s job because	f	6	6	10	subj	f	1
+The grandmother told the woman to leave right now as	f	4	4	10	subj	f	1
+The grandmother charged the sister one hundred dollars although	f	4	4	9	subj	f	1
+The nun bought the grandmother a gift because	f	4	4	8	subj	f	1
+The lady prepared dinner for the girl and	f	6	6	8	subj	f	1
+The mother always ask the bride for help because	f	5	5	9	subj	f	1
+The woman cleaned the mother 's room and	f	4	4	8	subj	f	1
+The woman cleaned the room for the aunt and	f	7	7	9	subj	f	1
+The woman showed the grandmother the direction because	f	4	4	8	subj	f	1
+The granddaughter asked the girl for the books because	f	4	4	9	subj	f	1
+The daughter transported the mother to the job because	f	4	4	9	subj	f	1
+The mother fixed the aunt 's car and then	f	4	4	9	subj	f	1
+The aunt demanded the granddaughter produce the book because	f	4	4	9	subj	f	1
+The grandmother transported the nun to the hospital because	f	4	4	9	subj	f	1
+The daughter showed the daughter the direction because	f	4	4	8	subj	f	1
+The grandmother was running from the sister because	f	6	6	8	subj	f	1
+The wife is talking to the mother about the assignments	f	6	6	10	subj	f	1
+The grandmother asked the bride to close the window because	f	4	4	10	subj	f	1
+The girl had to hire the grandmother so that	f	6	6	9	subj	f	1
+The daughter prepared dinner for the wife and	f	6	6	8	subj	f	1
+The lady prepared dinner for the bride and	f	6	6	8	subj	f	1
+The bride met with the wife so that	f	5	5	8	subj	f	1
+The granddaughter ran faster than the lady because	f	6	6	8	subj	f	1
+The aunt asked the bride to go together because	f	4	4	9	subj	f	1
+The mother appreciated getting treatment from the mother because	f	7	7	9	subj	f	1
+The sister is discussing with the aunt about the course	f	6	6	10	subj	f	1
+The girl refused to obey the woman because	f	6	6	8	subj	f	1
+The granddaughter is waiting for the lady because	f	6	6	8	subj	f	1
+The woman offered apples to the lady , because	f	6	6	9	subj	f	1
+The sister eats more than the grandmother as	f	6	6	8	subj	f	1
+The lady asked the lady to prepare some documents because	f	4	4	10	subj	f	1
+The woman asked the sister to close the window because	f	4	4	10	subj	f	1
+The woman examined the granddaughter for cuts because	f	4	4	8	subj	f	1
+The lady brought the mother some ideas which	f	4	4	8	subj	f	1
+The bride prepared a dish for the wife because	f	7	7	9	subj	f	1
+The wife was unable to communicate with the lady because	f	8	8	10	subj	f	1
+The grandmother saved the lady from the criminals because	f	4	4	9	subj	f	1
+The woman asked the lady to prepare cakes because	f	4	4	9	subj	f	1
+The bride has more money than the nun since	f	7	7	9	subj	f	1
+The woman earns more than the woman because	f	6	6	8	subj	f	1
+The wife enjoyed getting a haircut from the nun because	f	8	8	10	subj	f	1
+The girl helped the lady fix the window quickly as	f	4	4	10	subj	f	1
+The nun told the lady the good news that	f	4	4	9	subj	f	1
+The aunt accused the woman of theft because	f	4	4	8	subj	f	1
+The girl is mad at the wife because	f	6	6	8	subj	f	1
+The woman bought a beer for the girl because	f	7	7	9	subj	f	1
+The wife prepared a dish for the girl because	f	7	7	9	subj	f	1
+The aunt earns more than the wife because	f	6	6	8	subj	f	1
+The daughter is always teaching the grandmother new techniques so	f	6	6	10	subj	f	1
+The girl refused to obey the sister because	f	6	6	8	subj	f	1
+The daughter does not like the nun because	f	6	6	8	subj	f	1
+The mother demanded an apology from the daughter because	f	7	7	9	subj	f	1
+The bride had to hire the grandmother so that	f	6	6	9	subj	f	1
+The woman cleaned the room for the lady and	f	7	7	9	subj	f	1
+The girl helped the nun fix the window quickly as	f	4	4	10	subj	f	1
+The granddaughter gave the lady some tips even though	f	4	4	9	subj	f	1
+The sister prepared a dish for the sister because	f	7	7	9	subj	f	1
+The wife got mad at the grandmother because	f	6	6	8	subj	f	1
+The granddaughter caught the mother stealing the money and	f	4	4	9	subj	f	1
+The daughter asked the nun to be more careful because	f	4	4	10	subj	f	1
+The woman asked the aunt to pick up papers because	f	4	4	10	subj	f	1
+The lady ran faster than the daughter because	f	6	6	8	subj	f	1
+The wife was not recognized by the lady because	f	7	7	9	subj	f	1
+The lady took down the nun 's petition and then	f	5	5	10	subj	f	1
+The granddaughter asked the lady to pick up papers because	f	4	4	10	subj	f	1
+The nun asked the wife to prepare the paperwork because	f	4	4	10	subj	f	1
+The aunt examined the grandmother for injuries because	f	4	4	8	subj	f	1
+The sister prepared a dish for the wife because	f	7	7	9	subj	f	1
+The grandmother had to hire the woman because	f	6	6	8	subj	f	1
+The woman eats more than the girl as	f	6	6	8	subj	f	1
+The bride gave the bride a bag of eggs because	f	4	4	10	subj	f	1
+The granddaughter showed the bride the direction because	f	4	4	8	subj	f	1
+The woman made a wood lion for the sister because	f	8	8	10	subj	f	1
+The woman scanned documents for the daughter because	f	6	6	8	subj	f	1
+The girl invited the lady to the party because	f	4	4	9	subj	f	1
+The mother likes the sister 's product and	f	4	4	8	subj	f	1
+The woman tries to approach the sister because	f	6	6	8	subj	f	1
+The woman was rude to the nun because	f	6	6	8	subj	f	1
+The granddaughter cleaned the room for the mother and	f	7	7	9	subj	f	1
+The granddaughter asked the mother many questions because	f	4	4	8	subj	f	1
+The bride prepared dinner for the mother and	f	6	6	8	subj	f	1
+The wife had a meeting with the daughter so	f	7	7	9	subj	f	1
+The girl said thank you to the wife because	f	7	7	9	subj	f	1
+The mother fixed the problem for the lady and	f	7	7	9	subj	f	1
+The aunt earns more than the wife because	f	6	6	8	subj	f	1
+The woman saved the lady from the criminals because	f	4	4	9	subj	f	1
+The grandmother bought a beer for the lady because	f	7	7	9	subj	f	1
+The granddaughter helped the woman fix the window quickly as	f	4	4	10	subj	f	1
+The nun swept up the daughter ’s mess because	f	5	5	9	subj	f	1
+The aunt handed the sister a hammer because	f	4	4	8	subj	f	1
+The mother had to hire the wife so that	f	6	6	9	subj	f	1
+The girl asked the girl some questions as	f	4	4	8	subj	f	1
+The bride moved the desk for the aunt because	f	7	7	9	subj	f	1
+The granddaughter demanded the woman leave the farm because	f	4	4	9	subj	f	1
+The grandmother asked the bride many questions because	f	4	4	8	subj	f	1
+The wife dug a hole for the sister because	f	7	7	9	subj	f	1
+The grandmother told the woman to leave right now as	f	4	4	10	subj	f	1
+The woman examined the woman for injuries because	f	4	4	8	subj	f	1
+The girl bought the woman a gift because	f	4	4	8	subj	f	1
+The grandmother made a wood lion for the nun because	f	8	8	10	subj	f	1
+The nun admires the work of the nun because	f	7	7	9	subj	f	1
+The aunt gave the sister a present because	f	4	4	8	subj	f	1
+The nun moved the desk for the mother because	f	7	7	9	subj	f	1
+The bride was referred to the wife because	f	6	6	8	subj	f	1
+The lady took the bride on a ride because	f	4	4	9	subj	f	1
+The nun has more money than the girl since	f	7	7	9	subj	f	1
+The woman is discussing with the aunt about the course	f	6	6	10	subj	f	1
+The grandmother cleaned the room for the aunt and	f	7	7	9	subj	f	1
+The lady asked the woman to prepare the paperwork because	f	4	4	10	subj	f	1
+The grandmother was referred to the daughter because	f	6	6	8	subj	f	1
+The wife asked the bride to prepare cakes because	f	4	4	9	subj	f	1
+The girl had to hire the nun so that	f	6	6	9	subj	f	1
+The nun built a website for the girl because	f	7	7	9	subj	f	1
+The sister cleaned the granddaughter 's room and	f	4	4	8	subj	f	1
+The bride prepared a dish for the girl because	f	7	7	9	subj	f	1
+The lady suggested the nun get a new job because	f	4	4	10	subj	f	1
+The granddaughter asked the granddaughter to book a flight because	f	4	4	10	subj	f	1
+The bride likes the aunt 's product and	f	4	4	8	subj	f	1
+The daughter prepared dinner for the daughter and	f	6	6	8	subj	f	1
+The daughter swept up the grandmother ’s mess because	f	5	5	9	subj	f	1
+The granddaughter prescribed the drugs to the grandmother , because	f	7	7	10	subj	f	1
+The nun scanned documents for the nun because	f	6	6	8	subj	f	1
+The aunt never drove the daughter anywhere because	f	5	5	8	subj	f	1
+The daughter helped the lady to pack up otherwise	f	4	4	9	subj	f	1
+The woman met with the lady so that	f	5	5	8	subj	f	1
+The grandmother met with the mother so that	f	5	5	8	subj	f	1
+The girl is talking to the wife about the assignments	f	6	6	10	subj	f	1
+The wife is discussing with the aunt about the course	f	6	6	10	subj	f	1
+The sister wanted to meet the lady because	f	6	6	8	subj	f	1
+The mother ran faster than the grandmother because	f	6	6	8	subj	f	1
+The bride made a wood lion for the sister because	f	8	8	10	subj	f	1
+The girl is talking to the sister about the thief	f	6	6	10	subj	f	1
+The nun eats more than the woman as	f	6	6	8	subj	f	1
+The mother told the girl to come back tomorrow because	f	4	4	10	subj	f	1
+The wife asked the bride some questions as	f	4	4	8	subj	f	1
+The lady is afraid of the wife because	f	6	6	8	subj	f	1
+The girl took the aunt on a ride because	f	4	4	9	subj	f	1
+The woman gave the daughter a tip because	f	4	4	8	subj	f	1
+The nun is waiting for the daughter because	f	6	6	8	subj	f	1
+The grandmother created a beautiful chair for the lady because	f	8	8	10	subj	f	1
+The woman eats more than the grandmother as	f	6	6	8	subj	f	1
+The sister told the woman to leave right now as	f	4	4	10	subj	f	1
+The mother was a big fan of the girl because	f	8	8	10	subj	f	1
+The girl went to the house of the woman because	f	8	8	10	subj	f	1
+The sister reminded the sister to wear suits because	f	4	4	9	subj	f	1
+The sister made the lady perform remedial study because	f	4	4	9	subj	f	1
+The sister troubles the lady a lot because	f	4	4	8	subj	f	1
+The mother gave a free ride to the woman because	f	8	8	10	subj	f	1
+The wife accused the lady of theft because	f	4	4	8	subj	f	1
+The girl demanded an apology from the nun because	f	7	7	9	subj	f	1
+The wife asked the mother many questions because	f	4	4	8	subj	f	1
+The nun gave the nun some tips even though	f	4	4	9	subj	f	1
+The grandmother met with the sister so that	f	5	5	8	subj	f	1
+The grandmother missed the call from the aunt because	f	7	7	9	subj	f	1
+The lady asked the grandmother for the books because	f	4	4	9	subj	f	1
+The lady handed the application to the daughter because	f	7	7	9	subj	f	1
+The grandmother swept up the aunt ’s mess because	f	5	5	9	subj	f	1
+The lady is afraid of the daughter because	f	6	6	8	subj	f	1
+The grandmother was running from the lady because	f	6	6	8	subj	f	1
+The wife brought the girl some ideas which	f	4	4	8	subj	f	1
+The woman got mad at the grandmother because	f	6	6	8	subj	f	1
+The aunt likes to work with the daughter because	f	7	7	9	subj	f	1
+The grandmother asked the daughter to prepare cakes because	f	4	4	9	subj	f	1
+The mother prepared a dish for the bride because	f	7	7	9	subj	f	1
+The mother prepared dinner for the lady and	f	6	6	8	subj	f	1
+The girl was a big fan of the wife because	f	8	8	10	subj	f	1
+The girl helped the lady to fix the engine and	f	4	4	10	subj	f	1
+The lady told the wife the good news that	f	4	4	9	subj	f	1
+The daughter handed the mother a hammer because	f	4	4	8	subj	f	1
+The bride scanned documents for the sister because	f	6	6	8	subj	f	1
+The wife argued with the wife , because	f	5	5	8	subj	f	1
+The woman is mad at the daughter because	f	6	6	8	subj	f	1
+The wife showed dissatisfaction with the aunt because	f	6	6	8	subj	f	1
+The wife asked the mother many questions because	f	4	4	8	subj	f	1
+The granddaughter bought a beer for the bride because	f	7	7	9	subj	f	1
+The lady went to the house of the granddaughter because	f	8	8	10	subj	f	1
+The woman protected the mother in the accident and	f	4	4	9	subj	f	1
+The sister wrote a book about the wife because	f	7	7	9	subj	f	1
+The woman sent a report to the bride because	f	7	7	9	subj	f	1
+The sister was a big fan of the sister because	f	8	8	10	subj	f	1
+The granddaughter traded services with the sister because	f	6	6	8	subj	f	1
+The bride demanded the grandmother leave the farm because	f	4	4	9	subj	f	1
+The bride is talking to the sister about the thief	f	6	6	10	subj	f	1
+The lady is mad at the granddaughter because	f	6	6	8	subj	f	1
+The wife likes to work with the daughter because	f	7	7	9	subj	f	1
+The girl likes to work with the lady because	f	7	7	9	subj	f	1
+The bride told the grandmother the good news that	f	4	4	9	subj	f	1
+The grandmother examined the mother for sores because	f	4	4	8	subj	f	1
+The woman asked the aunt to try the cake because	f	4	4	10	subj	f	1
+The sister went to the house of the girl because	f	8	8	10	subj	f	1
+The mother missed the call from the mother because	f	7	7	9	subj	f	1
+The woman offered to help the woman because	f	6	6	8	subj	f	1
+The daughter had to hire the grandmother so that	f	6	6	9	subj	f	1
+The grandmother gave the lady a ride because	f	4	4	8	subj	f	1
+The aunt has more money than the nun since	f	7	7	9	subj	f	1
+The daughter prescribed the drugs to the nun , because	f	7	7	10	subj	f	1
+The girl examined the girl for sores because	f	4	4	8	subj	f	1
+The mother offered apples to the granddaughter , because	f	6	6	9	subj	f	1
+The daughter received care from the wife but	f	6	6	8	subj	f	1
+The daughter always ask the mother for help because	f	5	5	9	subj	f	1
+The woman showed the bride the direction because	f	4	4	8	subj	f	1
+The grandmother likes the granddaughter 's product and	f	4	4	8	subj	f	1
+The lady asked the daughter for the books because	f	4	4	9	subj	f	1
+The grandmother demanded an apology from the bride because	f	7	7	9	subj	f	1
+The lady agreed to raise the granddaughter 's salary because	f	6	6	10	subj	f	1
+The girl asked the daughter for the books because	f	4	4	9	subj	f	1
+The granddaughter prepared a dish for the lady because	f	7	7	9	subj	f	1
+The grandmother invited the mother to the party because	f	4	4	9	subj	f	1
+The mother picked up the wife from the airport after	f	5	5	10	subj	f	1
+The wife offered to help the aunt because	f	6	6	8	subj	f	1
+The granddaughter traded services with the grandmother because	f	6	6	8	subj	f	1
+The woman told the woman to leave right now as	f	4	4	10	subj	f	1
+The sister showed the nun the direction because	f	4	4	8	subj	f	1
+The lady told the lady the good news that	f	4	4	9	subj	f	1
+The nun transported the woman to the job because	f	4	4	9	subj	f	1
+The wife bought a beer for the grandmother because	f	7	7	9	subj	f	1
+The sister received care from the mother but	f	6	6	8	subj	f	1
+The wife was running from the granddaughter because	f	6	6	8	subj	f	1
+The grandmother likes to work with the girl because	f	7	7	9	subj	f	1
+The nun ran faster than the woman because	f	6	6	8	subj	f	1
+The grandmother is always teaching the sister new techniques so	f	6	6	10	subj	f	1
+The aunt was referred to the sister because	f	6	6	8	subj	f	1
+The girl was friendly with the grandmother so that	f	6	6	9	subj	f	1
+The girl asked the aunt for an examination because	f	4	4	9	subj	f	1
+The daughter asked the grandmother to withdraw the story because	f	4	4	10	subj	f	1
+The wife cleaned the room for the mother and	f	7	7	9	subj	f	1
+The woman told the daughter to leave right now as	f	4	4	10	subj	f	1
+The mother got mad at the lady because	f	6	6	8	subj	f	1
+The bride provided the mother with new tools but	f	4	4	9	subj	f	1
+The lady sent a report to the girl because	f	7	7	9	subj	f	1
+The aunt troubles the lady a lot because	f	4	4	8	subj	f	1
+The aunt always ask the aunt for help because	f	5	5	9	subj	f	1
+The wife demanded an apology from the aunt because	f	7	7	9	subj	f	1
+The lady prepared dinner for the lady and	f	6	6	8	subj	f	1
+The bride is talking to the mother about the assignments	f	6	6	10	subj	f	1
+The lady owed the grandmother some money and	f	4	4	8	subj	f	1
+The bride made a desk for the aunt because	f	7	7	9	subj	f	1
+The woman got mad at the granddaughter because	f	6	6	8	subj	f	1
+The bride had to hire the aunt so that	f	6	6	9	subj	f	1
+The sister is always teaching the daughter new techniques so	f	6	6	10	subj	f	1
+The mother took the mother on a ride because	f	4	4	9	subj	f	1
+The mother never talked with the grandmother because	f	6	6	8	subj	f	1
+The nun wanted to meet the lady because	f	6	6	8	subj	f	1
+The nun is talking to the girl as	f	6	6	8	subj	f	1
+The woman fixed the problem for the granddaughter and	f	7	7	9	subj	f	1
+The sister missed the call from the mother because	f	7	7	9	subj	f	1
+The nun argued with the girl , because	f	5	5	8	subj	f	1
+The grandmother invited the aunt to the party because	f	4	4	9	subj	f	1
+The aunt made a wood lion for the grandmother because	f	8	8	10	subj	f	1
+The wife was good friends with the nun because	f	7	7	9	subj	f	1
+The grandmother never drove the girl anywhere because	f	5	5	8	subj	f	1
+The woman received a gift from the daughter because	f	7	7	9	subj	f	1
+The wife troubles the woman a lot because	f	4	4	8	subj	f	1
+The lady bought a beer for the daughter because	f	7	7	9	subj	f	1
+The wife transported the granddaughter to the job because	f	4	4	9	subj	f	1
+The mother wrote a letter to the woman because	f	7	7	9	subj	f	1

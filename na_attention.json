@@ -1,21 +1,24 @@
 {
   "model": {
     "type": "ForwardLSTM",
-    "state_dict": "../../lm_data/models/gulordava/state_dict.pt"
+    "state_dict": "./model/state_dict.pt"
   },
   "init_states": {
-    "corpus_path": "../../lm_data/corpora/init_sens/init_sen0.txt"
+    "corpus_path": "./data/init_sen.txt"
   },
   "vocab": {
-    "path": "../../lm_data/models/gulordava/vocab.txt"
+    "path": "./model/vocab.txt"
   },
   "corpus": {
-    "path": "../../lm_data/corpora/downstream/lakretz/nounpp.txt",
+    "path": "./data/lakretz/nounpp.txt",
     "header": ["sen", "type", "correct", "idx"]
   },
   "activations": {
-    "activations_dir": "../../lm_data/activations/extracted/lakretz_nounpp_init_sen0",
-    "dtype": "float32"
+    "activations_dir": "lakretz_activations",
+    "activation_names": ["emb0","hx0", "cx0", "hx1", "cx1"]
+  },
+  "extract": {
+    "batch_size": 1024
   },
   "decompose": {
     "rel_interactions": ["rel-rel", "rel-irrel", "rel-b"],
