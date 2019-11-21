@@ -1,5 +1,5 @@
 sen	obj_gender	obj_idx	obj_idx_start	ref_idx	ref_type	subj_gender	subj_idx
-The father caught the lady stealing the money and	f	4	4	9	subj	m	1
+The bride examined the son for injuries because	m	4	4	8	subj	f	1
 The bride met with the father so that	m	5	5	8	subj	f	1
 The mother has more money than the husband since	m	7	7	9	subj	f	1
 The nun offered apples to the grandfather , because	m	6	6	9	subj	f	1
